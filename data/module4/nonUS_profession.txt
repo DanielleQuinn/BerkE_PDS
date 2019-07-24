@@ -1,0 +1,2707 @@
+"id"	"governement_work"	"occupation"	"capital_gain"	"capital_loss"	"hours_per_week"
+"1"	769	NA	NA	0	0	1
+"2"	1652	"Private"	"Craft repair"	0	0	1
+"3"	2509	"Private"	"Other service"	0	0	2
+"4"	783	"Private"	"Prof specialty"	0	0	3
+"5"	1174	"Self emp not inc"	"Prof specialty"	0	1668	3
+"6"	2702	"Private"	"Exec managerial"	0	0	3
+"7"	695	"Private"	"Craft repair"	0	0	4
+"8"	890	"Self emp not inc"	"Prof specialty"	0	0	4
+"9"	911	"Local gov"	"Prof specialty"	0	1648	4
+"10"	1532	NA	NA	0	0	4
+"11"	1539	NA	NA	0	0	5
+"12"	1739	"Private"	"Other service"	0	0	5
+"13"	2281	NA	NA	0	0	5
+"14"	2554	NA	NA	0	0	5
+"15"	556	"Private"	"Other service"	0	0	6
+"16"	742	NA	NA	0	0	6
+"17"	878	"Private"	"Adm clerical"	2964	0	6
+"18"	1082	NA	NA	0	0	6
+"19"	1235	"Private"	"Prof specialty"	0	0	6
+"20"	2046	NA	NA	0	0	6
+"21"	2178	"Private"	"Prof specialty"	0	0	6
+"22"	528	"Private"	"Sales"	0	0	8
+"23"	620	"Private"	"Other service"	0	0	8
+"24"	629	"Private"	"Sales"	0	0	8
+"25"	655	"Private"	"Sales"	0	0	8
+"26"	898	"Self emp not inc"	"Craft repair"	0	0	8
+"27"	1170	"Federal gov"	"Adm clerical"	0	0	8
+"28"	1374	"Private"	"Priv house serv"	0	0	8
+"29"	1491	"Private"	"Prof specialty"	0	0	8
+"30"	1597	"Private"	"Handlers cleaners"	0	0	8
+"31"	1682	"Private"	"Prof specialty"	0	0	8
+"32"	1734	NA	NA	0	0	8
+"33"	2342	"Private"	"Other service"	0	0	8
+"34"	2691	"Self emp not inc"	"Craft repair"	15831	0	8
+"35"	380	"State gov"	"Prof specialty"	0	0	10
+"36"	454	"Private"	"Adm clerical"	0	0	10
+"37"	579	"Private"	"Other service"	0	0	10
+"38"	672	"Local gov"	"Prof specialty"	0	0	10
+"39"	715	"State gov"	"Prof specialty"	0	0	10
+"40"	787	"Private"	"Adm clerical"	0	0	10
+"41"	943	"Self emp not inc"	"Prof specialty"	0	0	10
+"42"	987	NA	NA	0	0	10
+"43"	1032	"Private"	"Priv house serv"	0	0	10
+"44"	1050	NA	NA	0	0	10
+"45"	1051	NA	NA	0	0	10
+"46"	1629	"Private"	"Handlers cleaners"	0	0	10
+"47"	1657	"Private"	"Prof specialty"	0	0	10
+"48"	1732	"Local gov"	"Prof specialty"	0	0	10
+"49"	1752	NA	NA	0	0	10
+"50"	1771	"Private"	"Tech support"	0	0	10
+"51"	1883	"Local gov"	"Other service"	0	0	10
+"52"	1912	"Private"	"Prof specialty"	0	0	10
+"53"	2149	"Private"	"Sales"	0	0	10
+"54"	2390	NA	NA	0	0	10
+"55"	2595	NA	NA	0	0	10
+"56"	2622	"Private"	"Other service"	0	0	10
+"57"	2669	"Private"	"Prof specialty"	0	0	10
+"58"	2672	"Private"	"Machine op inspct"	0	0	10
+"59"	214	"Private"	"Machine op inspct"	0	0	11
+"60"	2706	"Private"	"Tech support"	0	0	11
+"61"	332	"Self emp not inc"	"Adm clerical"	0	0	12
+"62"	361	NA	NA	0	0	12
+"63"	370	"Private"	"Other service"	0	0	12
+"64"	713	"Private"	"Priv house serv"	0	0	12
+"65"	1146	"Private"	"Sales"	0	0	12
+"66"	1176	"Private"	"Priv house serv"	0	0	12
+"67"	1189	"Private"	"Other service"	0	0	12
+"68"	1334	"Private"	"Farming fishing"	0	0	12
+"69"	1851	NA	NA	0	0	12
+"70"	2002	"State gov"	"Adm clerical"	0	0	12
+"71"	2427	"Without pay"	"Adm clerical"	0	0	12
+"72"	788	"Private"	"Adm clerical"	0	0	14
+"73"	885	"Private"	"Adm clerical"	0	0	14
+"74"	2356	NA	NA	0	0	14
+"75"	2397	"Private"	"Other service"	0	0	14
+"76"	2486	"Private"	"Handlers cleaners"	2829	0	14
+"77"	28	"Private"	"Prof specialty"	0	0	15
+"78"	391	"Self emp not inc"	"Transport moving"	0	0	15
+"79"	621	"Private"	"Priv house serv"	0	1602	15
+"80"	775	"Private"	"Sales"	0	0	15
+"81"	1124	"Private"	"Prof specialty"	0	0	15
+"82"	1362	"State gov"	"Adm clerical"	0	0	15
+"83"	1443	"Private"	"Priv house serv"	0	0	15
+"84"	1467	"Private"	"Prof specialty"	0	0	15
+"85"	1761	NA	NA	0	0	15
+"86"	1822	"Private"	"Other service"	0	0	15
+"87"	1898	"Private"	"Adm clerical"	0	0	15
+"88"	1959	"Private"	"Tech support"	0	0	15
+"89"	2043	"Private"	"Other service"	0	0	15
+"90"	2098	"Self emp not inc"	"Other service"	2580	0	15
+"91"	2349	"Private"	"Sales"	0	0	15
+"92"	2384	"Private"	"Prof specialty"	0	0	15
+"93"	2388	"Self emp not inc"	"Other service"	0	0	15
+"94"	2438	NA	NA	0	0	15
+"95"	2441	"Federal gov"	"Other service"	0	0	15
+"96"	2640	NA	NA	0	0	15
+"97"	2	"Private"	"Other service"	0	0	16
+"98"	156	"Private"	"Prof specialty"	0	0	16
+"99"	288	"Private"	"Transport moving"	0	0	16
+"100"	459	"Private"	"Adm clerical"	0	0	16
+"101"	534	"Private"	"Priv house serv"	0	0	16
+"102"	656	"Private"	"Other service"	0	0	16
+"103"	765	NA	NA	0	0	16
+"104"	1308	"Private"	"Adm clerical"	15831	0	16
+"105"	1309	NA	NA	0	0	16
+"106"	1407	"Private"	"Adm clerical"	0	0	16
+"107"	2052	"Private"	"Farming fishing"	0	0	16
+"108"	2429	"Private"	"Adm clerical"	0	0	16
+"109"	155	NA	NA	0	0	17
+"110"	852	"State gov"	"Prof specialty"	0	0	17
+"111"	306	"Private"	"Sales"	0	0	18
+"112"	1982	"Private"	"Sales"	0	0	18
+"113"	2306	"Private"	"Sales"	1055	0	18
+"114"	1260	"Private"	"Sales"	0	0	19
+"115"	1386	"Private"	"Other service"	0	0	19
+"116"	2247	"State gov"	"Prof specialty"	0	0	19
+"117"	23	"Private"	"Adm clerical"	0	0	20
+"118"	87	"Self emp not inc"	"Prof specialty"	0	0	20
+"119"	177	NA	NA	0	0	20
+"120"	191	"Private"	"Machine op inspct"	0	0	20
+"121"	287	NA	NA	0	0	20
+"122"	289	"Private"	"Machine op inspct"	0	0	20
+"123"	326	"Self emp not inc"	"Other service"	0	0	20
+"124"	417	"Local gov"	"Prof specialty"	0	0	20
+"125"	487	"Private"	"Transport moving"	0	0	20
+"126"	539	"Private"	"Adm clerical"	0	0	20
+"127"	554	"Self emp not inc"	"Adm clerical"	0	0	20
+"128"	566	"Private"	"Farming fishing"	0	0	20
+"129"	595	"Self emp not inc"	"Prof specialty"	0	0	20
+"130"	690	"State gov"	"Prof specialty"	0	0	20
+"131"	740	"Private"	"Other service"	0	0	20
+"132"	826	"Private"	"Other service"	0	0	20
+"133"	861	"State gov"	"Prof specialty"	0	0	20
+"134"	872	"State gov"	"Adm clerical"	0	0	20
+"135"	905	"Private"	"Prof specialty"	0	0	20
+"136"	914	"Private"	"Tech support"	0	0	20
+"137"	915	"Private"	"Prof specialty"	0	0	20
+"138"	933	"Private"	"Transport moving"	0	0	20
+"139"	936	"Private"	"Other service"	0	0	20
+"140"	944	"Private"	"Adm clerical"	0	0	20
+"141"	955	"Private"	"Adm clerical"	0	0	20
+"142"	965	"Private"	"Other service"	0	0	20
+"143"	1048	"Self emp inc"	"Sales"	0	0	20
+"144"	1056	"Private"	"Prof specialty"	1848	0	20
+"145"	1103	"Private"	"Sales"	0	0	20
+"146"	1109	"Local gov"	"Adm clerical"	594	0	20
+"147"	1147	"Private"	"Sales"	0	0	20
+"148"	1175	NA	NA	0	0	20
+"149"	1198	"Local gov"	"Adm clerical"	0	0	20
+"150"	1204	"Self emp not inc"	"Sales"	0	0	20
+"151"	1233	"Private"	"Sales"	0	0	20
+"152"	1234	"Private"	"Sales"	0	0	20
+"153"	1279	NA	NA	0	0	20
+"154"	1358	"Private"	"Machine op inspct"	0	0	20
+"155"	1369	"Private"	"Sales"	0	0	20
+"156"	1376	"Private"	"Other service"	0	0	20
+"157"	1557	"State gov"	"Prof specialty"	0	0	20
+"158"	1580	"Private"	"Other service"	0	0	20
+"159"	1583	"Private"	"Adm clerical"	0	0	20
+"160"	1601	"Private"	"Sales"	0	0	20
+"161"	1617	NA	NA	0	0	20
+"162"	1633	NA	NA	0	0	20
+"163"	1696	"Private"	"Transport moving"	0	0	20
+"164"	1716	"State gov"	"Prof specialty"	0	0	20
+"165"	1743	"Private"	"Exec managerial"	0	0	20
+"166"	1768	"Private"	"Other service"	0	0	20
+"167"	1786	"Private"	"Other service"	0	0	20
+"168"	1806	"Self emp inc"	"Other service"	0	0	20
+"169"	1816	"State gov"	"Tech support"	0	0	20
+"170"	1829	"Private"	"Machine op inspct"	0	0	20
+"171"	1874	"Private"	"Other service"	0	0	20
+"172"	1890	"Private"	"Prof specialty"	0	0	20
+"173"	1900	"State gov"	"Prof specialty"	0	0	20
+"174"	1904	"State gov"	"Prof specialty"	0	0	20
+"175"	1919	"Self emp not inc"	"Sales"	0	0	20
+"176"	1937	"Private"	"Handlers cleaners"	0	0	20
+"177"	1977	NA	NA	0	0	20
+"178"	1984	"State gov"	"Prof specialty"	0	0	20
+"179"	2007	"Private"	"Other service"	0	0	20
+"180"	2033	"Private"	"Handlers cleaners"	0	0	20
+"181"	2051	"Self emp not inc"	"Exec managerial"	7688	0	20
+"182"	2122	NA	NA	0	0	20
+"183"	2161	"Private"	"Machine op inspct"	0	0	20
+"184"	2194	"Private"	"Handlers cleaners"	0	0	20
+"185"	2197	"Private"	"Handlers cleaners"	0	0	20
+"186"	2230	"Private"	"Prof specialty"	0	0	20
+"187"	2261	"Private"	"Sales"	0	0	20
+"188"	2315	"Private"	"Other service"	0	0	20
+"189"	2321	"Private"	"Other service"	0	0	20
+"190"	2430	"Local gov"	"Adm clerical"	0	0	20
+"191"	2451	NA	NA	0	419	20
+"192"	2542	NA	NA	3942	0	20
+"193"	2550	"Private"	"Adm clerical"	0	0	20
+"194"	2562	"Private"	"Prof specialty"	0	0	20
+"195"	121	NA	NA	0	0	21
+"196"	171	"Private"	"Machine op inspct"	0	0	21
+"197"	379	"Private"	"Machine op inspct"	0	0	21
+"198"	651	"Private"	"Prof specialty"	0	0	21
+"199"	830	"Private"	"Other service"	0	0	21
+"200"	1115	"Private"	"Other service"	0	0	21
+"201"	1314	NA	NA	0	0	22
+"202"	2382	"Private"	"Sales"	0	0	22
+"203"	1145	"Private"	"Other service"	0	0	23
+"204"	27	NA	NA	0	0	24
+"205"	307	"Private"	"Other service"	0	0	24
+"206"	377	"Private"	"Sales"	0	0	24
+"207"	383	"Private"	"Adm clerical"	0	0	24
+"208"	416	"Private"	"Adm clerical"	0	0	24
+"209"	500	"Private"	"Farming fishing"	0	0	24
+"210"	538	"Private"	"Farming fishing"	41310	0	24
+"211"	650	"Private"	"Handlers cleaners"	0	0	24
+"212"	771	"Private"	"Other service"	0	0	24
+"213"	789	NA	NA	0	0	24
+"214"	1077	"Private"	"Protective serv"	0	0	24
+"215"	1079	"Private"	"Priv house serv"	0	1594	24
+"216"	1226	"Private"	"Adm clerical"	0	0	24
+"217"	1245	"Private"	"Sales"	0	0	24
+"218"	1378	"Private"	"Handlers cleaners"	9386	0	24
+"219"	1483	"Private"	"Machine op inspct"	0	0	24
+"220"	1537	"Private"	"Other service"	0	0	24
+"221"	1646	"Private"	"Other service"	0	0	24
+"222"	1719	NA	NA	0	0	24
+"223"	1725	"Private"	"Other service"	0	0	24
+"224"	1927	"Private"	"Adm clerical"	0	0	24
+"225"	1979	"Private"	"Machine op inspct"	0	0	24
+"226"	1992	"Private"	"Adm clerical"	0	0	24
+"227"	2025	"Private"	"Exec managerial"	0	0	24
+"228"	2329	"Self emp not inc"	"Craft repair"	2635	0	24
+"229"	2464	"Private"	"Other service"	0	0	24
+"230"	2483	"Private"	"Prof specialty"	0	0	24
+"231"	2496	"Private"	"Adm clerical"	0	0	24
+"232"	2587	"Private"	"Priv house serv"	0	0	24
+"233"	2655	"Private"	"Machine op inspct"	0	0	24
+"234"	35	"Private"	"Other service"	0	0	25
+"235"	145	"State gov"	"Prof specialty"	0	0	25
+"236"	176	"Private"	"Protective serv"	0	0	25
+"237"	183	"Self emp not inc"	"Farming fishing"	0	0	25
+"238"	203	"Self emp not inc"	"Other service"	0	0	25
+"239"	211	"Private"	"Other service"	0	0	25
+"240"	259	"Private"	"Other service"	0	0	25
+"241"	347	"Private"	"Tech support"	0	0	25
+"242"	470	"Private"	"Other service"	0	0	25
+"243"	496	"Private"	"Adm clerical"	0	0	25
+"244"	553	"Private"	"Priv house serv"	0	0	25
+"245"	567	"Private"	"Other service"	0	0	25
+"246"	594	"Private"	"Craft repair"	0	0	25
+"247"	599	"Private"	"Other service"	0	0	25
+"248"	625	"Private"	"Transport moving"	0	0	25
+"249"	633	"Private"	"Other service"	0	0	25
+"250"	649	"Private"	"Sales"	0	0	25
+"251"	709	"Private"	"Sales"	0	0	25
+"252"	755	"Private"	"Handlers cleaners"	0	0	25
+"253"	827	"Private"	"Sales"	0	0	25
+"254"	882	"Private"	"Other service"	0	0	25
+"255"	913	"Private"	"Other service"	0	0	25
+"256"	929	"Private"	"Sales"	0	0	25
+"257"	975	"Private"	"Sales"	0	0	25
+"258"	1039	"Private"	"Other service"	0	0	25
+"259"	1072	"Private"	"Other service"	0	0	25
+"260"	1093	NA	NA	0	0	25
+"261"	1113	"Private"	"Sales"	0	0	25
+"262"	1157	"Private"	"Other service"	0	0	25
+"263"	1171	"Private"	"Other service"	0	0	25
+"264"	1177	"Private"	"Other service"	0	0	25
+"265"	1432	"Private"	"Other service"	0	0	25
+"266"	1563	"Private"	"Adm clerical"	0	0	25
+"267"	1587	"Private"	"Other service"	0	0	25
+"268"	1656	"Private"	"Other service"	0	0	25
+"269"	1671	"Private"	"Other service"	0	0	25
+"270"	1695	"Self emp not inc"	"Craft repair"	0	0	25
+"271"	1723	NA	NA	0	0	25
+"272"	1820	"Private"	"Adm clerical"	0	0	25
+"273"	1936	NA	NA	0	0	25
+"274"	2032	NA	NA	0	2163	25
+"275"	2035	"Private"	"Other service"	0	0	25
+"276"	2067	"Private"	"Prof specialty"	0	0	25
+"277"	2082	"Private"	"Farming fishing"	0	0	25
+"278"	2193	"Private"	"Adm clerical"	0	0	25
+"279"	2226	"Private"	"Sales"	0	0	25
+"280"	2262	"Self emp not inc"	"Handlers cleaners"	0	0	25
+"281"	2370	NA	NA	0	0	25
+"282"	2389	"Private"	"Other service"	0	0	25
+"283"	2400	"Private"	"Craft repair"	0	0	25
+"284"	2402	"Private"	"Sales"	0	0	25
+"285"	2453	"Private"	"Farming fishing"	0	0	25
+"286"	2474	"Private"	"Other service"	0	0	25
+"287"	2634	"Private"	"Other service"	0	0	25
+"288"	2638	"Private"	"Transport moving"	0	0	25
+"289"	676	"Private"	"Sales"	0	0	26
+"290"	873	"Private"	"Sales"	0	0	26
+"291"	636	"Private"	"Other service"	0	0	27
+"292"	971	"Private"	"Prof specialty"	0	0	27
+"293"	212	"Local gov"	"Prof specialty"	0	0	28
+"294"	334	"Private"	"Priv house serv"	0	0	28
+"295"	1114	"Private"	"Machine op inspct"	0	0	28
+"296"	1186	"Private"	"Other service"	0	0	28
+"297"	1619	"Private"	"Handlers cleaners"	0	0	28
+"298"	1753	NA	NA	0	0	28
+"299"	1765	"Private"	"Sales"	0	0	28
+"300"	15	"Private"	"Other service"	0	0	30
+"301"	34	"Private"	"Sales"	0	0	30
+"302"	65	"Private"	"Sales"	0	0	30
+"303"	100	"Self emp not inc"	"Other service"	0	0	30
+"304"	108	"Private"	"Other service"	0	0	30
+"305"	229	"Private"	"Tech support"	0	0	30
+"306"	239	"Private"	"Handlers cleaners"	2829	0	30
+"307"	280	"Private"	"Handlers cleaners"	0	0	30
+"308"	304	"Private"	"Prof specialty"	0	0	30
+"309"	320	"Private"	"Other service"	0	0	30
+"310"	343	"Federal gov"	"Other service"	0	0	30
+"311"	373	"Private"	"Craft repair"	0	0	30
+"312"	387	"Private"	"Adm clerical"	0	0	30
+"313"	393	"Private"	"Other service"	0	0	30
+"314"	407	"Private"	"Machine op inspct"	0	0	30
+"315"	422	"State gov"	"Prof specialty"	0	0	30
+"316"	426	"Private"	"Other service"	0	0	30
+"317"	447	"Private"	"Handlers cleaners"	0	0	30
+"318"	457	"Private"	"Machine op inspct"	0	0	30
+"319"	507	"Private"	"Adm clerical"	0	0	30
+"320"	525	"Self emp inc"	"Exec managerial"	15024	0	30
+"321"	559	"Private"	"Farming fishing"	0	0	30
+"322"	696	"Private"	"Other service"	0	0	30
+"323"	725	"Private"	"Exec managerial"	0	0	30
+"324"	750	"Private"	"Other service"	0	0	30
+"325"	766	"Self emp inc"	"Other service"	0	0	30
+"326"	798	NA	NA	0	0	30
+"327"	841	"Private"	"Priv house serv"	0	0	30
+"328"	867	"Private"	"Machine op inspct"	0	0	30
+"329"	892	"Private"	"Sales"	0	0	30
+"330"	942	NA	NA	5178	0	30
+"331"	952	"Private"	"Adm clerical"	0	0	30
+"332"	956	"Private"	"Craft repair"	0	0	30
+"333"	1004	"Private"	"Machine op inspct"	0	0	30
+"334"	1020	NA	NA	0	0	30
+"335"	1036	"Federal gov"	"Adm clerical"	0	0	30
+"336"	1038	"Private"	"Adm clerical"	0	0	30
+"337"	1065	"Private"	"Sales"	0	0	30
+"338"	1073	"Private"	"Sales"	0	0	30
+"339"	1180	"Private"	"Prof specialty"	0	0	30
+"340"	1185	"Private"	"Exec managerial"	0	0	30
+"341"	1187	"Private"	"Other service"	0	0	30
+"342"	1193	"Self emp not inc"	"Craft repair"	0	0	30
+"343"	1302	"Private"	"Craft repair"	0	0	30
+"344"	1319	NA	NA	0	0	30
+"345"	1363	"Private"	"Adm clerical"	0	0	30
+"346"	1401	"Private"	"Other service"	0	0	30
+"347"	1423	"Private"	"Craft repair"	0	0	30
+"348"	1428	"Private"	"Exec managerial"	0	0	30
+"349"	1457	"Private"	"Handlers cleaners"	0	0	30
+"350"	1560	"Private"	"Priv house serv"	0	0	30
+"351"	1576	NA	NA	4064	0	30
+"352"	1578	"Self emp not inc"	"Craft repair"	2290	0	30
+"353"	1602	"Private"	"Other service"	0	0	30
+"354"	1631	"Private"	"Adm clerical"	0	0	30
+"355"	1637	"Private"	"Sales"	0	0	30
+"356"	1642	"Private"	"Priv house serv"	0	0	30
+"357"	1669	"Private"	"Sales"	0	0	30
+"358"	1694	"Private"	"Prof specialty"	0	0	30
+"359"	1714	"Private"	"Other service"	0	0	30
+"360"	1731	"Private"	"Other service"	0	0	30
+"361"	1736	"Private"	"Adm clerical"	0	0	30
+"362"	1741	"Private"	"Machine op inspct"	0	0	30
+"363"	1793	"Private"	"Sales"	0	0	30
+"364"	1808	"Self emp not inc"	"Adm clerical"	4508	0	30
+"365"	1859	"Private"	"Handlers cleaners"	0	0	30
+"366"	1955	"Private"	"Transport moving"	0	0	30
+"367"	1965	"Self emp not inc"	"Exec managerial"	0	0	30
+"368"	1966	"Private"	"Other service"	0	0	30
+"369"	2004	"Private"	"Other service"	0	0	30
+"370"	2019	"Private"	"Adm clerical"	0	0	30
+"371"	2040	"Private"	"Other service"	0	0	30
+"372"	2087	"Local gov"	"Protective serv"	0	0	30
+"373"	2088	"Private"	"Sales"	0	0	30
+"374"	2117	"Private"	"Farming fishing"	0	0	30
+"375"	2150	"Private"	"Priv house serv"	0	0	30
+"376"	2174	"Private"	"Other service"	0	0	30
+"377"	2179	"Private"	"Other service"	0	0	30
+"378"	2357	"Self emp not inc"	"Craft repair"	0	0	30
+"379"	2363	"Private"	"Transport moving"	0	0	30
+"380"	2410	"Private"	"Other service"	0	0	30
+"381"	2412	"Private"	"Other service"	0	0	30
+"382"	2439	"Private"	"Craft repair"	0	0	30
+"383"	2485	"Private"	"Handlers cleaners"	0	0	30
+"384"	2510	"Private"	"Handlers cleaners"	0	0	30
+"385"	2516	"Private"	"Handlers cleaners"	0	0	30
+"386"	2529	"Private"	"Tech support"	0	0	30
+"387"	2532	"Private"	"Handlers cleaners"	0	0	30
+"388"	2563	"Private"	"Adm clerical"	0	0	30
+"389"	2619	"Private"	"Tech support"	0	0	30
+"390"	2647	"Private"	"Transport moving"	0	0	30
+"391"	2659	"Self emp not inc"	"Exec managerial"	0	0	30
+"392"	2701	"Self emp not inc"	"Craft repair"	0	0	30
+"393"	2139	"Private"	"Exec managerial"	0	0	31
+"394"	66	"Private"	"Farming fishing"	0	0	32
+"395"	84	"Private"	"Other service"	0	0	32
+"396"	606	"Self emp not inc"	"Prof specialty"	0	1977	32
+"397"	659	NA	NA	0	0	32
+"398"	684	"Private"	"Handlers cleaners"	0	0	32
+"399"	1061	"Private"	"Other service"	0	0	32
+"400"	1134	"Private"	"Craft repair"	0	0	32
+"401"	1190	"Private"	"Adm clerical"	0	0	32
+"402"	1229	"Private"	"Other service"	0	0	32
+"403"	1498	"Private"	"Priv house serv"	0	0	32
+"404"	1581	"Private"	"Sales"	0	0	32
+"405"	1584	"Private"	"Transport moving"	0	0	32
+"406"	1867	"Local gov"	"Other service"	0	0	32
+"407"	1939	"Private"	"Machine op inspct"	0	0	32
+"408"	1983	"Private"	"Sales"	0	0	32
+"409"	2176	"Self emp not inc"	"Prof specialty"	0	0	32
+"410"	2221	"Private"	"Sales"	0	0	32
+"411"	2224	"Private"	"Craft repair"	0	2603	32
+"412"	2276	"Private"	"Craft repair"	0	0	32
+"413"	2331	"Private"	"Handlers cleaners"	0	0	32
+"414"	2489	"Private"	"Other service"	0	0	32
+"415"	2527	NA	NA	0	0	32
+"416"	2545	NA	NA	0	0	32
+"417"	2620	"Private"	"Priv house serv"	0	0	32
+"418"	714	"Private"	"Adm clerical"	0	0	33
+"419"	1316	"Private"	"Tech support"	0	0	33
+"420"	1513	"Private"	"Craft repair"	0	0	33
+"421"	2533	"Private"	"Other service"	0	0	33
+"422"	1354	NA	NA	0	0	34
+"423"	1487	"Private"	"Machine op inspct"	2062	0	34
+"424"	2585	"Private"	"Other service"	0	0	34
+"425"	31	"Private"	"Exec managerial"	7298	0	35
+"426"	57	"Private"	"Exec managerial"	0	0	35
+"427"	61	"Local gov"	"Adm clerical"	0	0	35
+"428"	93	"Private"	"Craft repair"	0	0	35
+"429"	117	"Private"	"Other service"	0	0	35
+"430"	123	"Private"	"Farming fishing"	0	0	35
+"431"	157	"Private"	"Craft repair"	0	0	35
+"432"	189	"Self emp inc"	"Prof specialty"	0	2415	35
+"433"	190	"Private"	"Sales"	0	0	35
+"434"	200	NA	NA	0	0	35
+"435"	233	"Private"	"Other service"	0	0	35
+"436"	234	"Private"	"Craft repair"	0	0	35
+"437"	237	"Private"	"Exec managerial"	0	0	35
+"438"	315	"Private"	"Machine op inspct"	0	0	35
+"439"	317	"Private"	"Adm clerical"	0	0	35
+"440"	323	"Private"	"Other service"	0	0	35
+"441"	335	"Private"	"Other service"	0	0	35
+"442"	374	"Local gov"	"Prof specialty"	0	0	35
+"443"	388	"Private"	"Other service"	0	0	35
+"444"	398	"Private"	"Adm clerical"	0	0	35
+"445"	405	"Private"	"Other service"	0	0	35
+"446"	419	"Private"	"Farming fishing"	0	0	35
+"447"	433	"Private"	"Exec managerial"	0	0	35
+"448"	439	"Self emp inc"	"Exec managerial"	0	0	35
+"449"	441	"Private"	"Adm clerical"	0	0	35
+"450"	461	NA	NA	0	0	35
+"451"	464	"Private"	"Other service"	0	0	35
+"452"	473	"Private"	"Handlers cleaners"	0	0	35
+"453"	515	"Private"	"Prof specialty"	20051	0	35
+"454"	530	"Private"	"Exec managerial"	0	0	35
+"455"	591	"Private"	"Adm clerical"	0	0	35
+"456"	760	"Private"	"Other service"	0	0	35
+"457"	814	"Private"	"Farming fishing"	0	0	35
+"458"	829	"Private"	"Machine op inspct"	0	0	35
+"459"	832	"Private"	"Adm clerical"	0	0	35
+"460"	842	"Private"	"Craft repair"	0	0	35
+"461"	860	"Private"	"Prof specialty"	0	0	35
+"462"	864	"Self emp not inc"	"Adm clerical"	0	0	35
+"463"	877	"Private"	"Other service"	0	0	35
+"464"	879	"Private"	"Handlers cleaners"	0	0	35
+"465"	894	"Private"	"Adm clerical"	0	0	35
+"466"	910	"Private"	"Other service"	0	0	35
+"467"	926	"Private"	"Prof specialty"	0	0	35
+"468"	932	"Private"	"Other service"	0	0	35
+"469"	998	NA	NA	0	0	35
+"470"	999	"Private"	"Craft repair"	0	0	35
+"471"	1009	"Private"	"Other service"	0	0	35
+"472"	1021	"Local gov"	"Prof specialty"	0	0	35
+"473"	1055	"Private"	"Other service"	0	0	35
+"474"	1074	"Private"	"Prof specialty"	0	0	35
+"475"	1083	"Private"	"Craft repair"	0	0	35
+"476"	1121	"Private"	"Sales"	0	0	35
+"477"	1143	"Self emp not inc"	"Sales"	0	0	35
+"478"	1165	"Private"	"Priv house serv"	0	0	35
+"479"	1184	"Federal gov"	"Adm clerical"	0	0	35
+"480"	1197	"Private"	"Other service"	0	0	35
+"481"	1200	"Private"	"Tech support"	14084	0	35
+"482"	1247	"Private"	"Exec managerial"	0	0	35
+"483"	1251	"Private"	"Other service"	2202	0	35
+"484"	1261	"Private"	"Farming fishing"	0	0	35
+"485"	1266	"Private"	"Other service"	0	0	35
+"486"	1276	"Private"	"Craft repair"	0	0	35
+"487"	1292	"Private"	"Other service"	0	0	35
+"488"	1345	"Self emp not inc"	"Prof specialty"	0	0	35
+"489"	1357	"Local gov"	"Craft repair"	0	0	35
+"490"	1406	NA	NA	0	0	35
+"491"	1414	"Private"	"Handlers cleaners"	0	0	35
+"492"	1438	"Private"	"Priv house serv"	0	0	35
+"493"	1469	"Private"	"Adm clerical"	0	0	35
+"494"	1471	"Private"	"Farming fishing"	0	0	35
+"495"	1472	"Private"	"Priv house serv"	0	0	35
+"496"	1489	"Private"	"Exec managerial"	0	0	35
+"497"	1524	"Private"	"Protective serv"	0	0	35
+"498"	1526	"Local gov"	"Adm clerical"	0	0	35
+"499"	1538	"Private"	"Sales"	0	0	35
+"500"	1542	"Private"	"Craft repair"	0	0	35
+"501"	1546	"Self emp not inc"	"Craft repair"	0	0	35
+"502"	1550	"Local gov"	"Tech support"	0	0	35
+"503"	1564	"Private"	"Sales"	0	0	35
+"504"	1572	"Private"	"Priv house serv"	0	0	35
+"505"	1573	"Private"	"Other service"	0	0	35
+"506"	1592	"Private"	"Sales"	0	0	35
+"507"	1596	"Private"	"Exec managerial"	0	0	35
+"508"	1612	"Private"	"Adm clerical"	0	0	35
+"509"	1632	"Private"	"Prof specialty"	0	0	35
+"510"	1692	"Self emp not inc"	"Craft repair"	0	0	35
+"511"	1705	"Local gov"	"Adm clerical"	0	0	35
+"512"	1715	"Private"	"Other service"	0	0	35
+"513"	1718	"Self emp inc"	"Transport moving"	0	0	35
+"514"	1733	"Private"	"Craft repair"	0	0	35
+"515"	1756	"Private"	"Adm clerical"	0	0	35
+"516"	1767	"Private"	"Other service"	0	0	35
+"517"	1781	"Private"	"Other service"	0	0	35
+"518"	1794	"Private"	"Machine op inspct"	0	0	35
+"519"	1797	"Self emp not inc"	"Exec managerial"	0	0	35
+"520"	1807	"Private"	"Adm clerical"	0	2415	35
+"521"	1813	"Private"	"Craft repair"	0	0	35
+"522"	1821	"Private"	"Adm clerical"	0	0	35
+"523"	1863	"Private"	"Craft repair"	0	0	35
+"524"	1868	"Private"	"Handlers cleaners"	0	0	35
+"525"	1886	"Private"	"Craft repair"	0	0	35
+"526"	1901	"Private"	"Farming fishing"	0	0	35
+"527"	1938	"Local gov"	"Other service"	0	0	35
+"528"	1985	"Private"	"Exec managerial"	0	0	35
+"529"	2027	"Private"	"Craft repair"	0	0	35
+"530"	2038	"Private"	"Farming fishing"	0	0	35
+"531"	2044	"Private"	"Machine op inspct"	0	0	35
+"532"	2074	"Self emp inc"	"Other service"	0	0	35
+"533"	2083	"Self emp inc"	"Exec managerial"	0	0	35
+"534"	2129	"Private"	"Other service"	0	0	35
+"535"	2154	"Private"	"Machine op inspct"	3411	0	35
+"536"	2204	"Private"	"Farming fishing"	0	0	35
+"537"	2222	"Local gov"	"Prof specialty"	20051	0	35
+"538"	2244	"Private"	"Other service"	0	0	35
+"539"	2245	"Private"	"Other service"	0	0	35
+"540"	2251	"Private"	"Exec managerial"	0	1579	35
+"541"	2327	"Local gov"	"Adm clerical"	0	0	35
+"542"	2418	"Local gov"	"Other service"	0	0	35
+"543"	2424	"Private"	"Other service"	0	0	35
+"544"	2463	NA	NA	0	0	35
+"545"	2488	NA	NA	0	1719	35
+"546"	2494	"Private"	"Adm clerical"	0	0	35
+"547"	2505	"Private"	"Machine op inspct"	0	0	35
+"548"	2543	"Private"	"Craft repair"	0	0	35
+"549"	2546	"Private"	"Other service"	0	0	35
+"550"	2547	"Private"	"Other service"	0	0	35
+"551"	2575	"Private"	"Sales"	0	0	35
+"552"	2581	"Private"	"Adm clerical"	0	0	35
+"553"	2602	"Private"	"Machine op inspct"	0	0	35
+"554"	2621	"Private"	"Sales"	0	0	35
+"555"	2623	"Private"	"Prof specialty"	0	0	35
+"556"	2637	"Private"	"Adm clerical"	3103	0	35
+"557"	2641	"Private"	"Adm clerical"	0	0	35
+"558"	2651	"Private"	"Other service"	0	0	35
+"559"	2664	"Private"	"Tech support"	0	0	35
+"560"	2675	"Local gov"	"Prof specialty"	0	0	35
+"561"	2679	"Private"	"Craft repair"	0	0	35
+"562"	2684	"Private"	"Handlers cleaners"	0	0	35
+"563"	2698	"Private"	"Machine op inspct"	0	0	35
+"564"	128	"Private"	"Other service"	0	0	36
+"565"	244	"Private"	"Farming fishing"	0	0	36
+"566"	275	"Private"	"Farming fishing"	0	0	36
+"567"	319	"Private"	"Prof specialty"	0	0	36
+"568"	371	"Private"	"Prof specialty"	0	0	36
+"569"	397	"Private"	"Farming fishing"	0	0	36
+"570"	414	"Private"	"Exec managerial"	0	0	36
+"571"	542	"Private"	"Other service"	0	0	36
+"572"	733	"Private"	"Prof specialty"	0	0	36
+"573"	736	"Private"	"Other service"	0	0	36
+"574"	1012	"Private"	"Craft repair"	0	0	36
+"575"	1296	"Private"	"Prof specialty"	0	1876	36
+"576"	1329	"Private"	"Prof specialty"	0	0	36
+"577"	1494	"Private"	"Machine op inspct"	0	0	36
+"578"	1507	"Private"	"Craft repair"	0	0	36
+"579"	1541	"Private"	"Farming fishing"	0	0	36
+"580"	1679	"Private"	"Other service"	0	0	36
+"581"	1934	"Private"	"Sales"	0	0	36
+"582"	2072	"Private"	"Transport moving"	0	0	36
+"583"	2133	NA	NA	0	0	36
+"584"	2134	"Private"	"Farming fishing"	0	0	36
+"585"	2165	"Private"	"Adm clerical"	0	0	36
+"586"	2246	"Private"	"Craft repair"	0	0	36
+"587"	2586	"Private"	"Farming fishing"	0	0	36
+"588"	166	"Private"	"Sales"	0	0	37
+"589"	221	"Private"	"Transport moving"	0	0	37
+"590"	521	"Private"	"Craft repair"	0	0	37
+"591"	677	"Private"	"Other service"	0	0	37
+"592"	1164	"Private"	"Machine op inspct"	0	0	37
+"593"	1188	"Private"	"Handlers cleaners"	0	0	37
+"594"	1291	"Private"	"Machine op inspct"	0	0	37
+"595"	1408	"State gov"	"Tech support"	0	0	37
+"596"	1502	"Private"	"Other service"	0	0	37
+"597"	1915	"Private"	"Craft repair"	0	0	37
+"598"	2054	"Private"	"Other service"	0	0	37
+"599"	2557	"Private"	"Adm clerical"	0	0	37
+"600"	2617	"Private"	"Craft repair"	0	0	37
+"601"	16	"Local gov"	"Adm clerical"	0	0	38
+"602"	73	"Private"	"Machine op inspct"	0	0	38
+"603"	159	"Local gov"	"Other service"	0	0	38
+"604"	296	"Private"	"Transport moving"	0	0	38
+"605"	488	"Private"	"Other service"	0	0	38
+"606"	682	"Self emp not inc"	"Sales"	0	0	38
+"607"	708	"Private"	"Adm clerical"	0	0	38
+"608"	770	"Private"	"Adm clerical"	0	0	38
+"609"	819	"Private"	"Machine op inspct"	0	0	38
+"610"	963	"Private"	"Other service"	0	0	38
+"611"	968	"Private"	"Prof specialty"	0	0	38
+"612"	1105	"Private"	"Other service"	0	0	38
+"613"	1209	"State gov"	"Prof specialty"	0	0	38
+"614"	1255	"Private"	"Craft repair"	0	0	38
+"615"	1336	"Private"	"Handlers cleaners"	0	0	38
+"616"	1505	"Private"	"Machine op inspct"	0	0	38
+"617"	1509	"Private"	"Other service"	0	0	38
+"618"	1545	"Private"	"Machine op inspct"	0	0	38
+"619"	1609	"Private"	"Handlers cleaners"	0	0	38
+"620"	1961	"State gov"	"Prof specialty"	0	0	38
+"621"	2000	"Private"	"Tech support"	0	0	38
+"622"	2059	"Private"	"Other service"	0	0	38
+"623"	2097	"State gov"	"Adm clerical"	0	0	38
+"624"	2220	"Self emp inc"	"Prof specialty"	0	0	38
+"625"	2287	"Private"	"Protective serv"	15024	0	38
+"626"	2366	"Private"	"Prof specialty"	0	0	38
+"627"	2419	"Private"	"Other service"	0	0	38
+"628"	2431	"Local gov"	"Adm clerical"	0	0	38
+"629"	2449	"Private"	"Tech support"	0	0	38
+"630"	2703	"Private"	"Other service"	0	0	38
+"631"	558	"Private"	"Handlers cleaners"	0	0	39
+"632"	1267	"State gov"	"Other service"	0	0	39
+"633"	1	"Private"	"Prof specialty"	0	0	40
+"634"	3	"State gov"	"Prof specialty"	0	0	40
+"635"	6	"Private"	"Machine op inspct"	0	0	40
+"636"	8	"Private"	"Machine op inspct"	0	0	40
+"637"	9	"Private"	"Other service"	0	0	40
+"638"	10	"Private"	"Other service"	0	0	40
+"639"	11	"Private"	"Other service"	0	0	40
+"640"	13	"Private"	"Exec managerial"	0	0	40
+"641"	14	"Federal gov"	"Prof specialty"	0	0	40
+"642"	17	"Private"	"Exec managerial"	0	0	40
+"643"	18	"Private"	"Other service"	0	0	40
+"644"	19	"Private"	"Machine op inspct"	0	0	40
+"645"	20	"Private"	"Transport moving"	0	0	40
+"646"	21	NA	NA	0	0	40
+"647"	25	"Self emp not inc"	"Farming fishing"	0	0	40
+"648"	29	"Private"	"Craft repair"	0	0	40
+"649"	30	"Private"	"Adm clerical"	0	0	40
+"650"	32	"Private"	"Machine op inspct"	0	0	40
+"651"	36	"Self emp not inc"	"Craft repair"	0	0	40
+"652"	37	"Private"	"Handlers cleaners"	0	2179	40
+"653"	38	"Private"	"Machine op inspct"	0	0	40
+"654"	40	"Private"	"Craft repair"	0	1980	40
+"655"	41	"Private"	"Craft repair"	0	0	40
+"656"	43	"Private"	"Other service"	0	0	40
+"657"	44	"Local gov"	"Farming fishing"	0	0	40
+"658"	47	"Private"	"Other service"	0	0	40
+"659"	48	"Private"	"Other service"	0	0	40
+"660"	49	"Private"	"Prof specialty"	7688	0	40
+"661"	50	"Private"	"Handlers cleaners"	0	0	40
+"662"	52	"Private"	"Prof specialty"	0	0	40
+"663"	53	"State gov"	"Adm clerical"	0	0	40
+"664"	54	NA	NA	0	1762	40
+"665"	55	"Private"	"Adm clerical"	0	0	40
+"666"	56	"Private"	"Craft repair"	0	0	40
+"667"	58	"Private"	"Prof specialty"	0	0	40
+"668"	59	"Private"	"Sales"	0	1380	40
+"669"	60	"Private"	"Other service"	0	0	40
+"670"	62	"Private"	"Other service"	0	0	40
+"671"	63	"Private"	"Craft repair"	0	0	40
+"672"	64	"Local gov"	"Protective serv"	0	0	40
+"673"	68	"Private"	"Farming fishing"	0	0	40
+"674"	69	"Self emp not inc"	"Sales"	0	2415	40
+"675"	70	"Private"	"Adm clerical"	0	0	40
+"676"	71	"Private"	"Adm clerical"	0	0	40
+"677"	74	"Private"	"Priv house serv"	0	0	40
+"678"	75	"Private"	"Adm clerical"	0	0	40
+"679"	77	"Private"	"Exec managerial"	0	0	40
+"680"	82	"Self emp not inc"	"Sales"	0	0	40
+"681"	83	"Private"	"Craft repair"	0	0	40
+"682"	88	"Self emp inc"	"Exec managerial"	0	1651	40
+"683"	90	"Private"	"Prof specialty"	0	0	40
+"684"	91	"Private"	"Other service"	0	0	40
+"685"	94	"Federal gov"	"Sales"	0	0	40
+"686"	96	"Private"	"Machine op inspct"	0	0	40
+"687"	98	"Self emp not inc"	"Sales"	0	0	40
+"688"	99	"Federal gov"	"Prof specialty"	0	0	40
+"689"	101	"Private"	"Other service"	0	0	40
+"690"	102	"Private"	"Adm clerical"	0	0	40
+"691"	104	"Private"	"Other service"	0	0	40
+"692"	106	"Private"	"Sales"	0	0	40
+"693"	107	"Private"	"Exec managerial"	99999	0	40
+"694"	109	"Private"	"Exec managerial"	0	0	40
+"695"	113	"Private"	"Machine op inspct"	0	0	40
+"696"	115	"Private"	"Farming fishing"	2105	0	40
+"697"	116	"Private"	"Other service"	0	0	40
+"698"	118	NA	NA	0	0	40
+"699"	119	"Private"	"Other service"	0	0	40
+"700"	120	"Private"	"Other service"	0	0	40
+"701"	124	"Private"	"Machine op inspct"	0	0	40
+"702"	126	"Private"	"Protective serv"	0	0	40
+"703"	127	"Private"	"Adm clerical"	0	0	40
+"704"	132	"Private"	"Handlers cleaners"	0	0	40
+"705"	133	"Private"	"Adm clerical"	0	0	40
+"706"	134	"Private"	"Machine op inspct"	0	0	40
+"707"	135	"Private"	"Handlers cleaners"	0	0	40
+"708"	136	"Self emp not inc"	"Prof specialty"	99999	0	40
+"709"	137	"Private"	"Adm clerical"	0	0	40
+"710"	138	"Private"	"Other service"	0	0	40
+"711"	139	"Private"	"Other service"	0	0	40
+"712"	140	"Self emp not inc"	"Prof specialty"	0	0	40
+"713"	141	"Self emp not inc"	"Other service"	0	0	40
+"714"	144	"State gov"	"Exec managerial"	0	0	40
+"715"	148	"Private"	"Prof specialty"	13550	0	40
+"716"	149	"Private"	"Adm clerical"	0	0	40
+"717"	150	"Private"	"Exec managerial"	0	0	40
+"718"	151	"Private"	"Other service"	0	0	40
+"719"	153	"Private"	"Adm clerical"	0	0	40
+"720"	154	"Private"	"Priv house serv"	0	0	40
+"721"	158	"Private"	"Priv house serv"	0	0	40
+"722"	160	"State gov"	"Adm clerical"	0	0	40
+"723"	161	"Federal gov"	"Adm clerical"	0	0	40
+"724"	162	"Private"	"Transport moving"	0	0	40
+"725"	164	"Private"	"Handlers cleaners"	0	0	40
+"726"	167	"Private"	"Transport moving"	0	0	40
+"727"	169	"Federal gov"	"Adm clerical"	0	0	40
+"728"	170	"Local gov"	"Exec managerial"	0	1741	40
+"729"	172	"Private"	"Craft repair"	0	0	40
+"730"	173	"Private"	"Other service"	0	0	40
+"731"	174	"Private"	"Prof specialty"	0	0	40
+"732"	178	NA	NA	0	0	40
+"733"	179	"Federal gov"	"Exec managerial"	0	1887	40
+"734"	180	"Private"	"Machine op inspct"	0	0	40
+"735"	181	"Private"	"Exec managerial"	0	0	40
+"736"	182	"Private"	"Craft repair"	0	0	40
+"737"	185	"Private"	"Craft repair"	0	0	40
+"738"	187	"Private"	"Other service"	0	0	40
+"739"	188	"Private"	"Exec managerial"	0	0	40
+"740"	192	"Private"	"Handlers cleaners"	0	0	40
+"741"	194	"Private"	"Tech support"	0	0	40
+"742"	195	"Private"	"Machine op inspct"	0	0	40
+"743"	196	"State gov"	"Prof specialty"	4064	0	40
+"744"	197	"Private"	"Machine op inspct"	0	0	40
+"745"	198	"Private"	"Machine op inspct"	0	0	40
+"746"	199	"Private"	"Craft repair"	0	0	40
+"747"	201	"Private"	"Adm clerical"	0	0	40
+"748"	202	"Private"	"Transport moving"	0	0	40
+"749"	205	"Private"	"Prof specialty"	0	0	40
+"750"	206	"Private"	"Adm clerical"	0	0	40
+"751"	207	"Private"	"Adm clerical"	0	0	40
+"752"	210	"Self emp not inc"	"Other service"	0	0	40
+"753"	213	"Private"	"Handlers cleaners"	0	0	40
+"754"	216	"Private"	"Other service"	0	0	40
+"755"	220	"Private"	"Adm clerical"	0	0	40
+"756"	222	"Private"	"Machine op inspct"	0	0	40
+"757"	223	"Private"	"Adm clerical"	0	0	40
+"758"	225	"Private"	"Machine op inspct"	0	0	40
+"759"	226	"Private"	"Craft repair"	0	0	40
+"760"	227	"Private"	"Adm clerical"	0	0	40
+"761"	228	"Local gov"	"Prof specialty"	0	0	40
+"762"	231	"Private"	"Craft repair"	0	0	40
+"763"	240	"Private"	"Craft repair"	0	1902	40
+"764"	241	"Private"	"Adm clerical"	0	0	40
+"765"	242	"Private"	"Prof specialty"	0	0	40
+"766"	245	"Private"	"Exec managerial"	0	0	40
+"767"	246	"Private"	"Exec managerial"	0	0	40
+"768"	247	"Self emp not inc"	"Other service"	0	0	40
+"769"	248	"Private"	"Farming fishing"	0	0	40
+"770"	252	"Private"	"Craft repair"	0	0	40
+"771"	253	"Private"	"Prof specialty"	0	0	40
+"772"	254	"Private"	"Exec managerial"	0	0	40
+"773"	255	NA	NA	0	0	40
+"774"	257	"Private"	"Prof specialty"	0	1848	40
+"775"	260	"Private"	"Craft repair"	0	0	40
+"776"	261	NA	NA	0	0	40
+"777"	262	"Private"	"Other service"	0	0	40
+"778"	263	"Federal gov"	"Tech support"	7688	0	40
+"779"	265	"Private"	"Craft repair"	0	0	40
+"780"	266	"Private"	"Craft repair"	0	0	40
+"781"	267	"Private"	"Farming fishing"	0	0	40
+"782"	269	"Private"	"Priv house serv"	0	0	40
+"783"	270	"Private"	"Machine op inspct"	0	0	40
+"784"	271	"Private"	"Sales"	3464	0	40
+"785"	273	"Private"	"Prof specialty"	15020	0	40
+"786"	274	"Private"	"Adm clerical"	0	0	40
+"787"	276	"Private"	"Other service"	0	0	40
+"788"	277	"Private"	"Farming fishing"	0	0	40
+"789"	278	"Private"	"Craft repair"	0	0	40
+"790"	281	"Private"	"Craft repair"	5178	0	40
+"791"	282	"Private"	"Craft repair"	0	0	40
+"792"	283	"Private"	"Transport moving"	0	0	40
+"793"	284	"Private"	"Sales"	0	0	40
+"794"	285	"Private"	"Machine op inspct"	0	0	40
+"795"	286	NA	NA	0	0	40
+"796"	290	"Private"	"Prof specialty"	0	0	40
+"797"	291	"Private"	"Machine op inspct"	3137	0	40
+"798"	292	"Private"	"Prof specialty"	0	0	40
+"799"	293	"Private"	"Machine op inspct"	0	0	40
+"800"	298	"Private"	"Handlers cleaners"	0	0	40
+"801"	299	"Private"	"Handlers cleaners"	0	0	40
+"802"	300	"Private"	"Machine op inspct"	0	0	40
+"803"	301	"Private"	"Adm clerical"	0	0	40
+"804"	302	"Private"	"Exec managerial"	0	0	40
+"805"	303	"Local gov"	"Adm clerical"	0	0	40
+"806"	305	NA	NA	0	0	40
+"807"	308	"Private"	"Transport moving"	0	0	40
+"808"	309	"Private"	"Machine op inspct"	0	0	40
+"809"	310	"Private"	"Other service"	0	0	40
+"810"	314	"Private"	"Machine op inspct"	0	0	40
+"811"	316	"Private"	"Handlers cleaners"	0	0	40
+"812"	318	"Private"	"Machine op inspct"	3325	0	40
+"813"	321	"Private"	"Handlers cleaners"	0	0	40
+"814"	324	"Private"	"Handlers cleaners"	0	0	40
+"815"	327	"Private"	"Prof specialty"	914	0	40
+"816"	329	"Private"	"Other service"	0	0	40
+"817"	331	"Private"	"Craft repair"	0	0	40
+"818"	337	"Private"	"Transport moving"	0	0	40
+"819"	338	"Private"	"Sales"	0	0	40
+"820"	341	"Private"	"Adm clerical"	0	0	40
+"821"	342	"Private"	"Handlers cleaners"	0	0	40
+"822"	344	"Private"	"Adm clerical"	0	0	40
+"823"	345	"Private"	"Machine op inspct"	0	0	40
+"824"	346	"Private"	"Craft repair"	0	0	40
+"825"	348	NA	NA	0	0	40
+"826"	349	"Private"	"Craft repair"	0	0	40
+"827"	353	"Private"	"Handlers cleaners"	0	0	40
+"828"	354	"Private"	"Machine op inspct"	0	0	40
+"829"	355	NA	NA	0	0	40
+"830"	357	"Self emp not inc"	"Exec managerial"	0	0	40
+"831"	359	"Private"	"Craft repair"	0	0	40
+"832"	362	"Private"	"Craft repair"	0	0	40
+"833"	363	"Private"	"Adm clerical"	0	0	40
+"834"	364	"State gov"	"Prof specialty"	0	0	40
+"835"	365	"Private"	"Exec managerial"	0	0	40
+"836"	366	"Self emp not inc"	"Craft repair"	0	0	40
+"837"	368	"Private"	"Sales"	0	0	40
+"838"	369	"Private"	"Adm clerical"	0	0	40
+"839"	372	"Private"	"Handlers cleaners"	0	0	40
+"840"	375	"Private"	"Handlers cleaners"	0	0	40
+"841"	376	"Local gov"	"Prof specialty"	0	0	40
+"842"	378	"Private"	"Other service"	0	0	40
+"843"	381	"Private"	"Craft repair"	0	0	40
+"844"	384	"Private"	"Prof specialty"	0	0	40
+"845"	386	"Private"	"Handlers cleaners"	0	0	40
+"846"	389	"Private"	"Craft repair"	0	0	40
+"847"	394	"Private"	"Sales"	0	0	40
+"848"	399	"Private"	"Other service"	0	0	40
+"849"	402	"Federal gov"	"Tech support"	0	1902	40
+"850"	403	"Private"	"Craft repair"	0	0	40
+"851"	404	"Private"	"Transport moving"	0	0	40
+"852"	408	"Private"	"Adm clerical"	0	0	40
+"853"	409	"Private"	"Craft repair"	0	0	40
+"854"	410	"Private"	"Tech support"	0	1092	40
+"855"	411	"Private"	"Machine op inspct"	0	0	40
+"856"	412	"Private"	"Craft repair"	0	0	40
+"857"	413	"Private"	"Craft repair"	0	0	40
+"858"	415	"Private"	"Handlers cleaners"	0	0	40
+"859"	418	"Private"	"Prof specialty"	0	1977	40
+"860"	420	"Private"	"Handlers cleaners"	0	0	40
+"861"	421	"Private"	"Machine op inspct"	0	0	40
+"862"	423	"Private"	"Handlers cleaners"	0	0	40
+"863"	424	"Self emp inc"	"Sales"	0	0	40
+"864"	428	"Self emp not inc"	"Craft repair"	0	0	40
+"865"	429	"Private"	"Adm clerical"	0	0	40
+"866"	431	"Private"	"Transport moving"	0	0	40
+"867"	432	"Private"	"Sales"	0	0	40
+"868"	434	"Private"	"Transport moving"	0	0	40
+"869"	436	"Private"	"Machine op inspct"	0	0	40
+"870"	437	"State gov"	"Prof specialty"	0	0	40
+"871"	440	"Private"	"Other service"	0	0	40
+"872"	442	"Private"	"Machine op inspct"	0	0	40
+"873"	444	"Private"	"Handlers cleaners"	0	0	40
+"874"	445	"Private"	"Handlers cleaners"	0	0	40
+"875"	446	"Private"	"Machine op inspct"	0	0	40
+"876"	448	"Private"	"Other service"	0	0	40
+"877"	449	"Private"	"Exec managerial"	0	0	40
+"878"	451	NA	NA	0	0	40
+"879"	452	"Private"	"Handlers cleaners"	0	0	40
+"880"	453	"Private"	"Tech support"	7430	0	40
+"881"	455	"Private"	"Adm clerical"	0	0	40
+"882"	456	"Private"	"Other service"	0	0	40
+"883"	460	"Private"	"Machine op inspct"	0	0	40
+"884"	462	"Private"	"Protective serv"	0	0	40
+"885"	463	"Private"	"Machine op inspct"	0	0	40
+"886"	465	"Private"	"Exec managerial"	0	0	40
+"887"	466	"Private"	"Prof specialty"	0	0	40
+"888"	467	"Self emp not inc"	"Sales"	0	2258	40
+"889"	468	"Private"	"Other service"	0	0	40
+"890"	469	"Private"	"Exec managerial"	0	0	40
+"891"	471	"Private"	"Craft repair"	0	0	40
+"892"	472	"Private"	"Craft repair"	0	0	40
+"893"	474	"Private"	"Machine op inspct"	0	0	40
+"894"	477	NA	NA	0	0	40
+"895"	478	"Private"	"Craft repair"	0	0	40
+"896"	479	"Private"	"Priv house serv"	0	0	40
+"897"	481	"Private"	"Machine op inspct"	0	0	40
+"898"	483	"Private"	"Tech support"	0	0	40
+"899"	486	"Private"	"Machine op inspct"	0	0	40
+"900"	490	"Private"	"Priv house serv"	0	0	40
+"901"	491	"Private"	"Handlers cleaners"	0	0	40
+"902"	494	"Self emp not inc"	"Craft repair"	0	0	40
+"903"	495	"Private"	"Craft repair"	0	0	40
+"904"	497	"Private"	"Machine op inspct"	0	0	40
+"905"	499	"Private"	"Machine op inspct"	0	0	40
+"906"	503	"Private"	"Farming fishing"	0	0	40
+"907"	505	"Private"	"Tech support"	0	0	40
+"908"	506	"Private"	"Other service"	0	0	40
+"909"	508	"Private"	"Craft repair"	2290	0	40
+"910"	509	"Private"	"Farming fishing"	0	0	40
+"911"	510	"Self emp not inc"	"Exec managerial"	0	0	40
+"912"	511	"Private"	"Machine op inspct"	0	0	40
+"913"	513	NA	NA	0	0	40
+"914"	516	"Private"	"Craft repair"	0	0	40
+"915"	517	"Local gov"	"Exec managerial"	0	0	40
+"916"	519	"Private"	"Tech support"	0	0	40
+"917"	520	"Private"	"Adm clerical"	0	0	40
+"918"	522	"Private"	"Prof specialty"	0	0	40
+"919"	523	"Private"	"Craft repair"	0	0	40
+"920"	524	"Private"	"Exec managerial"	0	0	40
+"921"	526	NA	NA	0	0	40
+"922"	527	"Private"	"Prof specialty"	5013	0	40
+"923"	529	"Private"	"Adm clerical"	0	0	40
+"924"	532	"Federal gov"	"Adm clerical"	0	0	40
+"925"	535	"Private"	"Prof specialty"	0	1740	40
+"926"	536	"Private"	"Adm clerical"	0	0	40
+"927"	537	"Private"	"Sales"	0	0	40
+"928"	540	"Self emp inc"	"Sales"	0	0	40
+"929"	543	NA	NA	0	0	40
+"930"	548	"Self emp not inc"	"Farming fishing"	0	0	40
+"931"	551	"Private"	"Other service"	0	0	40
+"932"	555	"Private"	"Other service"	0	0	40
+"933"	557	"Private"	"Craft repair"	0	0	40
+"934"	560	"Private"	"Exec managerial"	4508	0	40
+"935"	565	"Private"	"Transport moving"	0	0	40
+"936"	568	"Self emp inc"	"Other service"	0	0	40
+"937"	571	"Private"	"Adm clerical"	0	0	40
+"938"	573	"Private"	"Other service"	0	0	40
+"939"	574	"Private"	"Sales"	0	0	40
+"940"	575	"Self emp inc"	"Sales"	0	0	40
+"941"	577	"Private"	"Craft repair"	0	0	40
+"942"	580	NA	NA	0	0	40
+"943"	581	"Private"	"Machine op inspct"	0	0	40
+"944"	582	"Private"	"Craft repair"	0	0	40
+"945"	583	"Private"	"Exec managerial"	0	0	40
+"946"	585	"Private"	"Handlers cleaners"	0	0	40
+"947"	589	"Private"	"Adm clerical"	0	0	40
+"948"	592	"Private"	"Other service"	0	0	40
+"949"	597	"Federal gov"	"Exec managerial"	0	0	40
+"950"	598	"Private"	"Farming fishing"	0	0	40
+"951"	600	"Private"	"Other service"	0	0	40
+"952"	602	"Self emp not inc"	"Craft repair"	0	0	40
+"953"	603	"Private"	"Other service"	0	0	40
+"954"	604	"Private"	"Craft repair"	0	0	40
+"955"	605	NA	NA	0	0	40
+"956"	608	"Private"	"Adm clerical"	2105	0	40
+"957"	609	"State gov"	"Protective serv"	0	0	40
+"958"	610	"Private"	"Machine op inspct"	0	0	40
+"959"	611	"State gov"	"Other service"	0	0	40
+"960"	612	"Federal gov"	"Other service"	0	0	40
+"961"	614	"State gov"	"Exec managerial"	0	0	40
+"962"	615	"State gov"	"Prof specialty"	0	0	40
+"963"	616	"Private"	"Other service"	0	0	40
+"964"	617	"Local gov"	"Adm clerical"	0	0	40
+"965"	618	"Private"	"Other service"	0	0	40
+"966"	622	"Private"	"Machine op inspct"	0	0	40
+"967"	623	"State gov"	"Prof specialty"	0	0	40
+"968"	624	"Private"	"Adm clerical"	0	0	40
+"969"	627	"Local gov"	"Adm clerical"	0	0	40
+"970"	628	"Private"	"Machine op inspct"	7298	0	40
+"971"	630	"Private"	"Other service"	0	0	40
+"972"	631	"Federal gov"	"Prof specialty"	0	2002	40
+"973"	632	"Private"	"Exec managerial"	0	0	40
+"974"	634	"Self emp not inc"	"Craft repair"	0	0	40
+"975"	635	"Private"	"Other service"	0	0	40
+"976"	638	"Private"	"Exec managerial"	0	0	40
+"977"	639	"Private"	"Handlers cleaners"	0	0	40
+"978"	642	"Private"	"Transport moving"	0	0	40
+"979"	643	"Private"	"Prof specialty"	0	0	40
+"980"	644	NA	NA	0	0	40
+"981"	646	"Private"	"Prof specialty"	0	0	40
+"982"	647	"Private"	"Craft repair"	0	0	40
+"983"	648	"Private"	"Machine op inspct"	0	0	40
+"984"	654	"Private"	"Craft repair"	0	0	40
+"985"	657	"Private"	"Craft repair"	0	0	40
+"986"	658	"Local gov"	"Other service"	0	0	40
+"987"	660	"Private"	"Prof specialty"	0	0	40
+"988"	661	"Self emp not inc"	"Prof specialty"	0	0	40
+"989"	662	"Private"	"Sales"	0	0	40
+"990"	663	"Federal gov"	"Exec managerial"	0	0	40
+"991"	664	NA	NA	0	0	40
+"992"	665	"Private"	"Sales"	0	0	40
+"993"	668	"Private"	"Handlers cleaners"	0	0	40
+"994"	669	"Private"	"Machine op inspct"	0	0	40
+"995"	670	"Private"	"Machine op inspct"	0	0	40
+"996"	671	"Private"	"Machine op inspct"	0	1719	40
+"997"	673	"Private"	"Handlers cleaners"	0	0	40
+"998"	674	"Private"	"Machine op inspct"	0	0	40
+"999"	675	"Private"	"Exec managerial"	0	0	40
+"1000"	678	"Private"	"Protective serv"	0	0	40
+"1001"	679	"Private"	"Other service"	0	0	40
+"1002"	680	"Federal gov"	"Exec managerial"	1471	0	40
+"1003"	681	"Private"	"Priv house serv"	0	0	40
+"1004"	685	"Private"	"Sales"	0	0	40
+"1005"	687	"Private"	"Machine op inspct"	0	0	40
+"1006"	689	"Private"	"Prof specialty"	0	0	40
+"1007"	692	NA	NA	0	0	40
+"1008"	693	NA	NA	0	0	40
+"1009"	694	"Private"	"Handlers cleaners"	0	0	40
+"1010"	698	"Private"	"Prof specialty"	0	0	40
+"1011"	699	"Private"	"Exec managerial"	0	0	40
+"1012"	701	"Private"	"Exec managerial"	0	0	40
+"1013"	702	"Private"	"Machine op inspct"	0	0	40
+"1014"	703	"Private"	"Adm clerical"	0	0	40
+"1015"	704	"Private"	"Handlers cleaners"	0	0	40
+"1016"	705	"Private"	"Other service"	0	0	40
+"1017"	710	"Private"	"Other service"	0	0	40
+"1018"	711	"Private"	"Craft repair"	0	0	40
+"1019"	712	"Private"	"Craft repair"	0	0	40
+"1020"	716	"Private"	"Tech support"	0	0	40
+"1021"	717	"Private"	"Prof specialty"	0	0	40
+"1022"	718	"Private"	"Handlers cleaners"	0	0	40
+"1023"	719	"State gov"	"Prof specialty"	0	0	40
+"1024"	720	"Private"	"Handlers cleaners"	0	0	40
+"1025"	721	"Private"	"Other service"	0	0	40
+"1026"	722	"Local gov"	"Craft repair"	0	0	40
+"1027"	724	"Private"	"Machine op inspct"	0	0	40
+"1028"	727	"Private"	"Other service"	0	0	40
+"1029"	728	"Private"	"Other service"	0	0	40
+"1030"	729	"Private"	"Craft repair"	14344	0	40
+"1031"	730	"Private"	"Adm clerical"	0	0	40
+"1032"	734	"Private"	"Machine op inspct"	0	0	40
+"1033"	735	"Private"	"Other service"	0	0	40
+"1034"	737	"Private"	"Handlers cleaners"	0	0	40
+"1035"	738	"Private"	"Prof specialty"	0	0	40
+"1036"	739	"Private"	"Adm clerical"	0	0	40
+"1037"	743	"Private"	"Protective serv"	0	0	40
+"1038"	744	"Private"	"Adm clerical"	0	0	40
+"1039"	745	"Private"	"Priv house serv"	0	0	40
+"1040"	746	"Private"	"Farming fishing"	0	0	40
+"1041"	747	"Private"	"Craft repair"	0	0	40
+"1042"	749	"Private"	"Machine op inspct"	0	0	40
+"1043"	751	"Local gov"	"Adm clerical"	0	0	40
+"1044"	753	NA	NA	0	0	40
+"1045"	754	"Private"	"Craft repair"	0	0	40
+"1046"	756	"Private"	"Machine op inspct"	0	0	40
+"1047"	757	"Private"	"Handlers cleaners"	0	0	40
+"1048"	758	"Private"	"Exec managerial"	0	0	40
+"1049"	759	"Private"	"Farming fishing"	0	0	40
+"1050"	762	"Private"	"Other service"	0	0	40
+"1051"	764	"Local gov"	"Prof specialty"	0	0	40
+"1052"	767	"Private"	"Other service"	0	0	40
+"1053"	772	"Private"	"Other service"	0	0	40
+"1054"	774	"Local gov"	"Craft repair"	0	0	40
+"1055"	776	"Private"	"Other service"	0	1579	40
+"1056"	777	"Private"	"Handlers cleaners"	0	0	40
+"1057"	778	"Self emp not inc"	"Craft repair"	0	0	40
+"1058"	779	"Private"	"Other service"	0	0	40
+"1059"	781	"Private"	"Adm clerical"	0	0	40
+"1060"	782	"Private"	"Prof specialty"	0	0	40
+"1061"	784	"Private"	"Machine op inspct"	0	0	40
+"1062"	785	"Private"	"Sales"	0	0	40
+"1063"	786	"Private"	"Sales"	0	0	40
+"1064"	790	"Private"	"Machine op inspct"	0	0	40
+"1065"	791	"Federal gov"	"Exec managerial"	0	0	40
+"1066"	793	"Private"	"Craft repair"	0	0	40
+"1067"	794	"Private"	"Other service"	0	0	40
+"1068"	797	"Private"	"Craft repair"	0	0	40
+"1069"	799	"Private"	"Other service"	0	0	40
+"1070"	800	"State gov"	"Adm clerical"	0	0	40
+"1071"	801	"Private"	"Machine op inspct"	0	0	40
+"1072"	802	"Private"	"Exec managerial"	0	0	40
+"1073"	803	"Private"	"Farming fishing"	0	0	40
+"1074"	808	"Private"	"Handlers cleaners"	3887	0	40
+"1075"	810	"Local gov"	"Other service"	0	0	40
+"1076"	811	"Private"	"Craft repair"	0	0	40
+"1077"	812	NA	NA	0	0	40
+"1078"	813	"Private"	"Farming fishing"	0	0	40
+"1079"	815	"Private"	"Handlers cleaners"	0	0	40
+"1080"	816	"Private"	"Other service"	0	0	40
+"1081"	817	"Local gov"	"Adm clerical"	0	0	40
+"1082"	818	"Private"	"Machine op inspct"	1831	0	40
+"1083"	820	"Self emp inc"	"Sales"	0	0	40
+"1084"	821	"Private"	"Other service"	0	0	40
+"1085"	822	"Private"	"Craft repair"	0	0	40
+"1086"	824	"Private"	"Craft repair"	0	0	40
+"1087"	825	"Self emp not inc"	"Farming fishing"	0	0	40
+"1088"	828	"Private"	"Sales"	0	1092	40
+"1089"	831	"Private"	"Adm clerical"	0	0	40
+"1090"	833	"State gov"	"Adm clerical"	0	0	40
+"1091"	836	"Local gov"	"Prof specialty"	0	0	40
+"1092"	839	"State gov"	"Prof specialty"	2885	0	40
+"1093"	840	"Private"	"Handlers cleaners"	0	0	40
+"1094"	843	"Private"	"Machine op inspct"	0	0	40
+"1095"	844	"Private"	"Other service"	0	0	40
+"1096"	845	"Private"	"Priv house serv"	0	0	40
+"1097"	847	NA	NA	0	1602	40
+"1098"	851	"Private"	"Sales"	15024	0	40
+"1099"	853	"Private"	"Sales"	0	0	40
+"1100"	854	"Private"	"Machine op inspct"	0	0	40
+"1101"	855	"Private"	"Craft repair"	0	0	40
+"1102"	858	"Private"	"Exec managerial"	0	0	40
+"1103"	859	"Self emp inc"	"Prof specialty"	0	0	40
+"1104"	862	"Private"	"Protective serv"	0	0	40
+"1105"	865	"Private"	"Sales"	0	0	40
+"1106"	866	"Private"	"Adm clerical"	0	0	40
+"1107"	868	"Local gov"	"Protective serv"	0	0	40
+"1108"	876	"Private"	"Craft repair"	0	0	40
+"1109"	880	"Private"	"Machine op inspct"	0	0	40
+"1110"	881	"Private"	"Machine op inspct"	0	0	40
+"1111"	884	"Private"	"Adm clerical"	0	0	40
+"1112"	886	"Private"	"Machine op inspct"	0	0	40
+"1113"	887	"Self emp not inc"	"Handlers cleaners"	0	0	40
+"1114"	888	"Private"	"Adm clerical"	0	0	40
+"1115"	889	"Private"	"Sales"	0	0	40
+"1116"	891	"Private"	"Adm clerical"	0	0	40
+"1117"	893	"Self emp not inc"	"Craft repair"	0	0	40
+"1118"	895	"Private"	"Adm clerical"	0	0	40
+"1119"	896	"Self emp not inc"	"Exec managerial"	0	0	40
+"1120"	897	"Private"	"Other service"	0	0	40
+"1121"	899	"Local gov"	"Other service"	0	0	40
+"1122"	900	"Private"	"Machine op inspct"	3103	0	40
+"1123"	902	"Private"	"Exec managerial"	0	0	40
+"1124"	903	"Private"	"Other service"	0	0	40
+"1125"	906	"Private"	"Prof specialty"	0	0	40
+"1126"	907	"Private"	"Adm clerical"	0	0	40
+"1127"	912	"Private"	"Prof specialty"	99999	0	40
+"1128"	916	"Private"	"Transport moving"	0	0	40
+"1129"	917	"Private"	"Prof specialty"	0	0	40
+"1130"	918	"Private"	"Other service"	0	0	40
+"1131"	920	"Private"	"Machine op inspct"	0	0	40
+"1132"	921	"Private"	"Other service"	0	0	40
+"1133"	922	NA	NA	0	0	40
+"1134"	924	"Private"	"Craft repair"	0	0	40
+"1135"	925	"Private"	"Other service"	0	0	40
+"1136"	930	"Private"	"Transport moving"	0	0	40
+"1137"	931	"Private"	"Craft repair"	3103	0	40
+"1138"	938	"Private"	"Craft repair"	0	0	40
+"1139"	939	"Private"	"Machine op inspct"	4508	0	40
+"1140"	940	"Private"	"Craft repair"	0	0	40
+"1141"	941	"Private"	"Machine op inspct"	0	0	40
+"1142"	945	"Local gov"	"Farming fishing"	0	0	40
+"1143"	947	"Private"	"Prof specialty"	7298	0	40
+"1144"	948	NA	NA	0	0	40
+"1145"	949	"Private"	"Farming fishing"	0	0	40
+"1146"	950	"Private"	"Adm clerical"	0	213	40
+"1147"	953	NA	NA	0	0	40
+"1148"	958	"State gov"	"Protective serv"	0	1590	40
+"1149"	959	NA	NA	0	0	40
+"1150"	961	"Local gov"	"Adm clerical"	0	0	40
+"1151"	962	"Private"	"Other service"	0	0	40
+"1152"	964	"Private"	"Tech support"	0	1564	40
+"1153"	966	"Private"	"Other service"	0	0	40
+"1154"	967	"Private"	"Handlers cleaners"	0	0	40
+"1155"	970	"Private"	"Craft repair"	0	0	40
+"1156"	972	"Private"	"Adm clerical"	0	0	40
+"1157"	973	"Private"	"Adm clerical"	0	0	40
+"1158"	974	"Private"	"Craft repair"	0	0	40
+"1159"	976	"Private"	"Craft repair"	5013	0	40
+"1160"	977	"Local gov"	"Prof specialty"	0	0	40
+"1161"	978	"Private"	"Transport moving"	0	0	40
+"1162"	979	"Private"	"Other service"	0	0	40
+"1163"	980	"Private"	"Farming fishing"	0	0	40
+"1164"	982	"Private"	"Other service"	4064	0	40
+"1165"	983	"Local gov"	"Transport moving"	3411	0	40
+"1166"	984	"Private"	"Craft repair"	0	0	40
+"1167"	985	"Private"	"Machine op inspct"	0	0	40
+"1168"	986	"Self emp inc"	"Adm clerical"	0	0	40
+"1169"	988	"State gov"	"Other service"	0	0	40
+"1170"	989	"Private"	"Farming fishing"	0	0	40
+"1171"	990	"Federal gov"	"Adm clerical"	7298	0	40
+"1172"	991	"Private"	"Craft repair"	0	0	40
+"1173"	994	"Private"	"Machine op inspct"	0	0	40
+"1174"	995	"Private"	"Exec managerial"	0	0	40
+"1175"	997	"Self emp not inc"	"Prof specialty"	0	0	40
+"1176"	1000	"Private"	"Craft repair"	0	0	40
+"1177"	1002	"Private"	"Craft repair"	0	1887	40
+"1178"	1003	"Private"	"Machine op inspct"	0	0	40
+"1179"	1006	"Private"	"Other service"	0	0	40
+"1180"	1007	"Private"	"Other service"	0	0	40
+"1181"	1008	"Private"	"Handlers cleaners"	0	0	40
+"1182"	1010	"Private"	"Handlers cleaners"	0	0	40
+"1183"	1011	"Private"	"Handlers cleaners"	0	0	40
+"1184"	1013	"Private"	"Machine op inspct"	0	0	40
+"1185"	1014	"Private"	"Other service"	0	0	40
+"1186"	1016	"Private"	"Machine op inspct"	0	0	40
+"1187"	1017	"Local gov"	"Prof specialty"	0	0	40
+"1188"	1022	"Private"	"Machine op inspct"	0	0	40
+"1189"	1024	"Private"	"Other service"	0	0	40
+"1190"	1026	"Private"	"Craft repair"	0	0	40
+"1191"	1027	"Private"	"Craft repair"	0	0	40
+"1192"	1028	"Private"	"Craft repair"	0	0	40
+"1193"	1029	"Private"	"Craft repair"	0	0	40
+"1194"	1031	"Private"	"Craft repair"	0	0	40
+"1195"	1033	"Private"	"Machine op inspct"	0	0	40
+"1196"	1034	"Private"	"Craft repair"	7688	0	40
+"1197"	1035	"Private"	"Tech support"	0	0	40
+"1198"	1040	"Private"	"Craft repair"	0	0	40
+"1199"	1041	"Private"	"Adm clerical"	0	0	40
+"1200"	1042	"Private"	"Machine op inspct"	0	0	40
+"1201"	1044	"Private"	"Handlers cleaners"	0	0	40
+"1202"	1045	"Local gov"	"Transport moving"	0	1848	40
+"1203"	1046	"Private"	"Other service"	0	0	40
+"1204"	1052	"Private"	"Handlers cleaners"	0	0	40
+"1205"	1053	"Private"	"Craft repair"	0	0	40
+"1206"	1054	"Local gov"	"Other service"	0	0	40
+"1207"	1057	"Private"	"Exec managerial"	0	0	40
+"1208"	1058	"Self emp not inc"	"Exec managerial"	0	0	40
+"1209"	1059	"Private"	"Sales"	0	0	40
+"1210"	1060	"Federal gov"	"Prof specialty"	0	1902	40
+"1211"	1067	"Private"	"Craft repair"	0	0	40
+"1212"	1068	"Private"	"Other service"	0	0	40
+"1213"	1069	"Private"	"Craft repair"	0	0	40
+"1214"	1070	"Private"	"Exec managerial"	7298	0	40
+"1215"	1071	"Private"	"Craft repair"	0	0	40
+"1216"	1075	"Private"	"Craft repair"	0	0	40
+"1217"	1076	"Private"	"Machine op inspct"	0	0	40
+"1218"	1078	"Private"	"Other service"	0	0	40
+"1219"	1080	"Private"	"Prof specialty"	0	0	40
+"1220"	1081	"Private"	"Adm clerical"	0	0	40
+"1221"	1084	"Private"	"Machine op inspct"	0	0	40
+"1222"	1085	"Private"	"Other service"	0	0	40
+"1223"	1086	"Private"	"Other service"	0	0	40
+"1224"	1087	"Private"	"Other service"	0	0	40
+"1225"	1088	"Local gov"	"Craft repair"	0	0	40
+"1226"	1089	"Private"	"Machine op inspct"	0	0	40
+"1227"	1090	"Private"	"Machine op inspct"	0	0	40
+"1228"	1091	"Private"	"Sales"	0	0	40
+"1229"	1092	"Private"	"Machine op inspct"	0	0	40
+"1230"	1094	"Private"	"Sales"	0	0	40
+"1231"	1095	"Private"	"Machine op inspct"	0	0	40
+"1232"	1096	NA	NA	0	0	40
+"1233"	1098	"Private"	"Priv house serv"	0	0	40
+"1234"	1099	"Self emp not inc"	"Farming fishing"	0	0	40
+"1235"	1101	"Private"	"Prof specialty"	0	0	40
+"1236"	1102	"Private"	"Adm clerical"	2907	0	40
+"1237"	1104	"Private"	"Machine op inspct"	5556	0	40
+"1238"	1108	"Private"	"Exec managerial"	0	0	40
+"1239"	1110	"Private"	"Other service"	0	0	40
+"1240"	1111	"Private"	"Tech support"	0	0	40
+"1241"	1112	"Private"	"Craft repair"	0	0	40
+"1242"	1116	"Private"	"Tech support"	0	1887	40
+"1243"	1119	"Private"	"Craft repair"	0	0	40
+"1244"	1120	"Local gov"	"Handlers cleaners"	0	0	40
+"1245"	1123	"Private"	"Machine op inspct"	0	0	40
+"1246"	1125	NA	NA	0	0	40
+"1247"	1126	"Private"	"Prof specialty"	0	0	40
+"1248"	1127	"Private"	"Exec managerial"	0	0	40
+"1249"	1128	"Private"	"Handlers cleaners"	0	0	40
+"1250"	1129	"Private"	"Adm clerical"	0	0	40
+"1251"	1130	"Private"	"Machine op inspct"	0	0	40
+"1252"	1132	"Self emp not inc"	"Prof specialty"	0	0	40
+"1253"	1133	"Private"	"Handlers cleaners"	0	0	40
+"1254"	1135	"Private"	"Other service"	0	0	40
+"1255"	1136	"Private"	"Machine op inspct"	0	0	40
+"1256"	1138	"Private"	"Craft repair"	0	0	40
+"1257"	1139	"Private"	"Exec managerial"	3103	0	40
+"1258"	1140	"Private"	"Machine op inspct"	0	0	40
+"1259"	1142	"Private"	"Exec managerial"	0	0	40
+"1260"	1144	"Private"	"Other service"	0	0	40
+"1261"	1148	"Private"	"Adm clerical"	0	0	40
+"1262"	1151	"Private"	"Craft repair"	0	0	40
+"1263"	1153	"Self emp not inc"	"Craft repair"	0	0	40
+"1264"	1154	"Private"	"Transport moving"	0	0	40
+"1265"	1155	"Private"	"Other service"	0	0	40
+"1266"	1156	"Private"	"Craft repair"	0	0	40
+"1267"	1158	"Private"	"Prof specialty"	0	0	40
+"1268"	1159	"Private"	"Adm clerical"	0	0	40
+"1269"	1160	"Private"	"Machine op inspct"	0	0	40
+"1270"	1161	"Private"	"Craft repair"	0	0	40
+"1271"	1162	"Private"	"Handlers cleaners"	0	0	40
+"1272"	1167	"Private"	"Exec managerial"	0	0	40
+"1273"	1168	"Private"	"Adm clerical"	0	0	40
+"1274"	1169	"Private"	"Handlers cleaners"	0	0	40
+"1275"	1173	"Private"	"Other service"	0	0	40
+"1276"	1179	"Private"	"Craft repair"	0	0	40
+"1277"	1181	"Private"	"Adm clerical"	0	0	40
+"1278"	1183	"Self emp inc"	"Prof specialty"	0	0	40
+"1279"	1191	NA	NA	0	0	40
+"1280"	1192	"Private"	"Protective serv"	0	0	40
+"1281"	1194	"Self emp not inc"	"Other service"	0	0	40
+"1282"	1199	"Private"	"Craft repair"	0	0	40
+"1283"	1201	"Federal gov"	"Adm clerical"	0	0	40
+"1284"	1202	"Private"	"Sales"	0	0	40
+"1285"	1203	"Private"	"Other service"	0	0	40
+"1286"	1205	"Local gov"	"Other service"	0	0	40
+"1287"	1208	"Private"	"Machine op inspct"	0	0	40
+"1288"	1210	"Private"	"Exec managerial"	0	0	40
+"1289"	1211	"Private"	"Tech support"	0	0	40
+"1290"	1212	"Private"	"Adm clerical"	0	0	40
+"1291"	1213	"Private"	"Machine op inspct"	0	0	40
+"1292"	1214	"Private"	"Sales"	0	0	40
+"1293"	1215	"Private"	"Machine op inspct"	0	0	40
+"1294"	1216	"Private"	"Priv house serv"	0	0	40
+"1295"	1219	"Private"	"Prof specialty"	0	0	40
+"1296"	1220	"Private"	"Machine op inspct"	0	0	40
+"1297"	1221	"Private"	"Adm clerical"	0	0	40
+"1298"	1222	"Private"	"Other service"	0	0	40
+"1299"	1223	"Private"	"Machine op inspct"	0	0	40
+"1300"	1224	"Local gov"	"Other service"	0	0	40
+"1301"	1225	"Private"	"Adm clerical"	0	0	40
+"1302"	1227	"Private"	"Handlers cleaners"	0	0	40
+"1303"	1228	"Private"	"Machine op inspct"	0	0	40
+"1304"	1230	"Private"	"Other service"	0	1651	40
+"1305"	1231	"Private"	"Craft repair"	2174	0	40
+"1306"	1232	"Local gov"	"Handlers cleaners"	0	0	40
+"1307"	1239	"Private"	"Farming fishing"	0	0	40
+"1308"	1240	"Private"	"Exec managerial"	0	0	40
+"1309"	1241	NA	NA	0	0	40
+"1310"	1242	"Self emp not inc"	"Exec managerial"	0	0	40
+"1311"	1243	"Private"	"Tech support"	0	0	40
+"1312"	1244	"Private"	"Other service"	0	0	40
+"1313"	1248	"Private"	"Adm clerical"	0	0	40
+"1314"	1249	"Private"	"Craft repair"	0	0	40
+"1315"	1252	"Private"	"Prof specialty"	0	0	40
+"1316"	1253	"Private"	"Exec managerial"	0	0	40
+"1317"	1256	"Private"	"Adm clerical"	0	0	40
+"1318"	1257	"Private"	"Other service"	0	0	40
+"1319"	1258	"Federal gov"	"Craft repair"	0	0	40
+"1320"	1259	"Private"	"Craft repair"	0	0	40
+"1321"	1262	"Private"	"Adm clerical"	0	0	40
+"1322"	1265	"Private"	"Other service"	0	0	40
+"1323"	1269	"Private"	"Transport moving"	0	0	40
+"1324"	1272	"Private"	"Machine op inspct"	0	0	40
+"1325"	1274	"Private"	"Machine op inspct"	0	0	40
+"1326"	1277	"Private"	"Machine op inspct"	0	0	40
+"1327"	1278	"Private"	"Adm clerical"	0	0	40
+"1328"	1280	"Federal gov"	"Adm clerical"	4064	0	40
+"1329"	1281	"Private"	"Other service"	0	0	40
+"1330"	1284	"Private"	"Sales"	0	0	40
+"1331"	1287	"Private"	"Craft repair"	0	0	40
+"1332"	1288	"Private"	"Other service"	0	0	40
+"1333"	1290	"Private"	"Sales"	0	0	40
+"1334"	1294	"Private"	"Exec managerial"	0	0	40
+"1335"	1295	"Private"	"Machine op inspct"	0	0	40
+"1336"	1297	"Private"	"Handlers cleaners"	0	0	40
+"1337"	1298	NA	NA	0	0	40
+"1338"	1300	"Private"	"Other service"	0	0	40
+"1339"	1301	"Private"	"Machine op inspct"	0	0	40
+"1340"	1303	"Private"	"Machine op inspct"	0	0	40
+"1341"	1304	"Private"	"Machine op inspct"	0	0	40
+"1342"	1305	"Private"	"Machine op inspct"	2885	0	40
+"1343"	1306	"Self emp not inc"	"Other service"	0	0	40
+"1344"	1307	"Self emp inc"	"Exec managerial"	0	1902	40
+"1345"	1313	"Private"	"Craft repair"	0	0	40
+"1346"	1315	NA	NA	0	0	40
+"1347"	1318	"Self emp not inc"	"Exec managerial"	0	0	40
+"1348"	1320	"Private"	"Craft repair"	0	0	40
+"1349"	1322	"Federal gov"	"Adm clerical"	0	0	40
+"1350"	1323	"Private"	"Craft repair"	0	0	40
+"1351"	1324	"Private"	"Prof specialty"	0	0	40
+"1352"	1325	"Private"	"Other service"	0	0	40
+"1353"	1326	"Federal gov"	"Transport moving"	0	0	40
+"1354"	1327	"Local gov"	"Adm clerical"	0	0	40
+"1355"	1328	"Private"	"Craft repair"	0	0	40
+"1356"	1330	"Private"	"Craft repair"	0	0	40
+"1357"	1332	"Private"	"Machine op inspct"	0	0	40
+"1358"	1333	"Private"	"Machine op inspct"	0	0	40
+"1359"	1335	"Private"	"Transport moving"	5178	0	40
+"1360"	1337	"Private"	"Exec managerial"	0	0	40
+"1361"	1338	"Private"	"Machine op inspct"	0	0	40
+"1362"	1339	"Federal gov"	"Adm clerical"	0	2080	40
+"1363"	1340	"Private"	"Craft repair"	0	0	40
+"1364"	1341	"Private"	"Craft repair"	0	0	40
+"1365"	1343	"Private"	"Protective serv"	0	0	40
+"1366"	1344	"Private"	"Exec managerial"	0	0	40
+"1367"	1346	"Private"	"Machine op inspct"	0	0	40
+"1368"	1347	"Private"	"Handlers cleaners"	0	0	40
+"1369"	1349	"Private"	"Adm clerical"	0	0	40
+"1370"	1350	"Private"	"Protective serv"	0	0	40
+"1371"	1351	"Private"	"Machine op inspct"	0	0	40
+"1372"	1352	"Private"	"Exec managerial"	0	0	40
+"1373"	1355	"Private"	"Handlers cleaners"	0	0	40
+"1374"	1356	"State gov"	"Adm clerical"	0	0	40
+"1375"	1359	"Private"	"Sales"	0	0	40
+"1376"	1360	"Private"	"Transport moving"	0	0	40
+"1377"	1361	"Private"	"Prof specialty"	0	0	40
+"1378"	1364	"Private"	"Other service"	0	0	40
+"1379"	1365	"Private"	"Craft repair"	0	0	40
+"1380"	1366	"Private"	"Adm clerical"	0	0	40
+"1381"	1367	"Private"	"Prof specialty"	0	0	40
+"1382"	1368	NA	NA	0	0	40
+"1383"	1370	"Local gov"	"Other service"	0	0	40
+"1384"	1371	"Private"	"Exec managerial"	0	0	40
+"1385"	1373	NA	NA	0	0	40
+"1386"	1375	"Private"	"Priv house serv"	0	0	40
+"1387"	1377	"Private"	"Machine op inspct"	0	0	40
+"1388"	1379	"Private"	"Other service"	0	0	40
+"1389"	1380	"Private"	"Exec managerial"	0	0	40
+"1390"	1381	"Private"	"Machine op inspct"	0	0	40
+"1391"	1382	"Private"	"Sales"	0	0	40
+"1392"	1384	"Private"	"Farming fishing"	0	0	40
+"1393"	1385	NA	NA	0	0	40
+"1394"	1388	"Private"	"Handlers cleaners"	0	0	40
+"1395"	1389	"Private"	"Craft repair"	0	0	40
+"1396"	1390	"Private"	"Machine op inspct"	0	0	40
+"1397"	1391	"Private"	"Machine op inspct"	0	0	40
+"1398"	1392	NA	NA	0	0	40
+"1399"	1393	"Self emp not inc"	"Prof specialty"	0	0	40
+"1400"	1394	"Local gov"	"Protective serv"	0	0	40
+"1401"	1396	"Private"	"Craft repair"	0	0	40
+"1402"	1397	"Private"	"Adm clerical"	0	0	40
+"1403"	1399	"Private"	"Craft repair"	0	0	40
+"1404"	1400	"Private"	"Craft repair"	0	0	40
+"1405"	1402	"Private"	"Other service"	0	0	40
+"1406"	1403	"Private"	"Exec managerial"	0	0	40
+"1407"	1404	"Private"	"Other service"	0	0	40
+"1408"	1413	"Private"	"Handlers cleaners"	0	0	40
+"1409"	1415	"Private"	"Craft repair"	0	0	40
+"1410"	1417	"Private"	"Handlers cleaners"	0	0	40
+"1411"	1418	"Private"	"Protective serv"	0	0	40
+"1412"	1419	"Private"	"Farming fishing"	0	0	40
+"1413"	1421	"Private"	"Adm clerical"	0	0	40
+"1414"	1425	"Private"	"Exec managerial"	0	0	40
+"1415"	1430	"Local gov"	"Exec managerial"	0	0	40
+"1416"	1431	"Private"	"Machine op inspct"	2174	0	40
+"1417"	1433	"Local gov"	"Adm clerical"	0	0	40
+"1418"	1434	"Private"	"Transport moving"	0	0	40
+"1419"	1435	"Private"	"Other service"	0	0	40
+"1420"	1437	"Private"	"Machine op inspct"	0	0	40
+"1421"	1440	"Self emp not inc"	"Farming fishing"	0	2457	40
+"1422"	1441	"Private"	"Other service"	0	0	40
+"1423"	1444	"Private"	"Machine op inspct"	0	0	40
+"1424"	1445	"Private"	"Craft repair"	0	0	40
+"1425"	1446	"Private"	"Sales"	0	0	40
+"1426"	1448	"Private"	"Craft repair"	0	0	40
+"1427"	1449	NA	NA	0	0	40
+"1428"	1450	"Private"	"Protective serv"	0	0	40
+"1429"	1451	"Private"	"Handlers cleaners"	0	0	40
+"1430"	1453	"Private"	"Machine op inspct"	0	0	40
+"1431"	1454	"Private"	"Farming fishing"	0	0	40
+"1432"	1456	"Private"	"Prof specialty"	0	1902	40
+"1433"	1458	"Private"	"Prof specialty"	0	0	40
+"1434"	1459	"Private"	"Machine op inspct"	0	0	40
+"1435"	1460	"Private"	"Prof specialty"	0	625	40
+"1436"	1461	"Private"	"Machine op inspct"	0	0	40
+"1437"	1462	"Private"	"Other service"	0	0	40
+"1438"	1465	"Private"	"Machine op inspct"	0	0	40
+"1439"	1466	"Private"	"Other service"	0	0	40
+"1440"	1468	"Private"	"Prof specialty"	0	0	40
+"1441"	1470	"Private"	"Machine op inspct"	0	0	40
+"1442"	1473	NA	NA	0	0	40
+"1443"	1474	NA	NA	0	0	40
+"1444"	1475	"Private"	"Machine op inspct"	0	0	40
+"1445"	1476	"Private"	"Machine op inspct"	0	0	40
+"1446"	1482	"Private"	"Machine op inspct"	0	0	40
+"1447"	1485	"Private"	"Transport moving"	0	0	40
+"1448"	1486	"Private"	"Other service"	0	0	40
+"1449"	1488	"Private"	"Priv house serv"	0	0	40
+"1450"	1493	"Private"	"Adm clerical"	2202	0	40
+"1451"	1496	"Private"	"Other service"	0	0	40
+"1452"	1499	"Private"	"Machine op inspct"	0	0	40
+"1453"	1504	"Private"	"Craft repair"	0	0	40
+"1454"	1506	"Private"	"Other service"	0	0	40
+"1455"	1508	"Private"	"Handlers cleaners"	0	1762	40
+"1456"	1511	NA	NA	0	0	40
+"1457"	1514	"Private"	"Adm clerical"	0	0	40
+"1458"	1516	"Private"	"Other service"	0	0	40
+"1459"	1517	"Private"	"Craft repair"	0	0	40
+"1460"	1518	"Private"	"Adm clerical"	0	0	40
+"1461"	1520	"Local gov"	"Adm clerical"	0	0	40
+"1462"	1521	"Private"	"Priv house serv"	0	0	40
+"1463"	1523	"Private"	"Other service"	0	0	40
+"1464"	1525	"Private"	"Prof specialty"	0	0	40
+"1465"	1527	NA	NA	0	0	40
+"1466"	1528	"Private"	"Sales"	15024	0	40
+"1467"	1529	"Private"	"Exec managerial"	0	0	40
+"1468"	1530	"Private"	"Sales"	0	0	40
+"1469"	1531	"Private"	"Prof specialty"	0	0	40
+"1470"	1533	"Private"	"Exec managerial"	0	0	40
+"1471"	1534	"Private"	"Craft repair"	0	0	40
+"1472"	1536	"Private"	"Handlers cleaners"	0	0	40
+"1473"	1544	"Private"	"Sales"	0	0	40
+"1474"	1553	"Private"	"Machine op inspct"	0	0	40
+"1475"	1554	"Private"	"Other service"	0	0	40
+"1476"	1555	"Private"	"Craft repair"	5178	0	40
+"1477"	1559	"Private"	"Farming fishing"	0	0	40
+"1478"	1561	"Private"	"Other service"	0	0	40
+"1479"	1562	NA	NA	0	0	40
+"1480"	1565	"Private"	"Machine op inspct"	0	0	40
+"1481"	1568	"Private"	"Other service"	0	0	40
+"1482"	1569	"Private"	"Machine op inspct"	0	0	40
+"1483"	1570	"Private"	"Adm clerical"	0	0	40
+"1484"	1571	"Private"	"Machine op inspct"	0	0	40
+"1485"	1574	"Private"	"Priv house serv"	0	0	40
+"1486"	1577	"Private"	"Adm clerical"	0	1590	40
+"1487"	1579	"Private"	"Handlers cleaners"	0	0	40
+"1488"	1582	"Private"	"Adm clerical"	0	0	40
+"1489"	1585	"Private"	"Machine op inspct"	0	0	40
+"1490"	1586	NA	NA	0	0	40
+"1491"	1588	"Private"	"Adm clerical"	0	0	40
+"1492"	1589	"Private"	"Prof specialty"	0	0	40
+"1493"	1590	"Private"	"Craft repair"	0	0	40
+"1494"	1591	"Private"	"Sales"	0	0	40
+"1495"	1594	"Private"	"Machine op inspct"	0	0	40
+"1496"	1595	"Federal gov"	"Adm clerical"	0	0	40
+"1497"	1598	"Private"	"Machine op inspct"	0	0	40
+"1498"	1600	"Private"	"Other service"	0	0	40
+"1499"	1603	"Local gov"	"Prof specialty"	0	0	40
+"1500"	1604	"Private"	"Sales"	0	0	40
+"1501"	1605	"Private"	"Machine op inspct"	0	0	40
+"1502"	1606	"Private"	"Transport moving"	0	0	40
+"1503"	1607	"Local gov"	"Protective serv"	0	0	40
+"1504"	1613	"Private"	"Machine op inspct"	0	0	40
+"1505"	1614	"Private"	"Prof specialty"	0	0	40
+"1506"	1615	"Private"	"Machine op inspct"	0	0	40
+"1507"	1616	"Private"	"Adm clerical"	0	0	40
+"1508"	1621	"Private"	"Handlers cleaners"	0	0	40
+"1509"	1622	"Private"	"Other service"	0	0	40
+"1510"	1623	"Private"	"Craft repair"	0	0	40
+"1511"	1624	"Private"	"Adm clerical"	0	0	40
+"1512"	1625	"Local gov"	"Craft repair"	0	1876	40
+"1513"	1626	"Private"	"Other service"	0	0	40
+"1514"	1627	"Private"	"Priv house serv"	0	0	40
+"1515"	1634	"Private"	"Handlers cleaners"	0	1651	40
+"1516"	1635	"Private"	"Craft repair"	0	0	40
+"1517"	1636	"Local gov"	"Tech support"	0	0	40
+"1518"	1638	"Private"	"Craft repair"	0	0	40
+"1519"	1639	NA	NA	0	0	40
+"1520"	1643	"Private"	"Machine op inspct"	0	2205	40
+"1521"	1644	"Private"	"Sales"	0	0	40
+"1522"	1645	"Federal gov"	"Adm clerical"	0	0	40
+"1523"	1647	"Private"	"Other service"	0	0	40
+"1524"	1648	"Private"	"Prof specialty"	0	0	40
+"1525"	1653	"Private"	"Craft repair"	0	0	40
+"1526"	1654	"Private"	"Other service"	0	0	40
+"1527"	1655	"Private"	"Handlers cleaners"	0	0	40
+"1528"	1658	"Private"	"Adm clerical"	0	0	40
+"1529"	1659	"Private"	"Craft repair"	0	0	40
+"1530"	1660	"Private"	"Handlers cleaners"	0	0	40
+"1531"	1661	"Private"	"Exec managerial"	0	0	40
+"1532"	1663	"Private"	"Other service"	0	0	40
+"1533"	1664	"Private"	"Transport moving"	0	0	40
+"1534"	1665	NA	NA	0	0	40
+"1535"	1667	"Private"	"Other service"	0	0	40
+"1536"	1668	"Private"	"Adm clerical"	0	0	40
+"1537"	1670	"State gov"	"Adm clerical"	0	0	40
+"1538"	1672	"Private"	"Other service"	0	0	40
+"1539"	1673	"Private"	"Adm clerical"	0	0	40
+"1540"	1674	"Private"	"Other service"	0	0	40
+"1541"	1675	"Federal gov"	"Adm clerical"	0	0	40
+"1542"	1676	"Private"	"Craft repair"	0	0	40
+"1543"	1681	NA	NA	0	0	40
+"1544"	1683	"Private"	"Craft repair"	0	0	40
+"1545"	1684	"Private"	"Other service"	0	0	40
+"1546"	1685	"Private"	"Prof specialty"	0	0	40
+"1547"	1687	"Private"	"Prof specialty"	0	0	40
+"1548"	1688	NA	NA	0	0	40
+"1549"	1690	"Private"	"Exec managerial"	0	0	40
+"1550"	1693	"Private"	"Exec managerial"	15024	0	40
+"1551"	1699	"Private"	"Craft repair"	0	0	40
+"1552"	1702	"Private"	"Prof specialty"	0	0	40
+"1553"	1708	"Private"	"Handlers cleaners"	0	0	40
+"1554"	1711	"Private"	"Craft repair"	0	0	40
+"1555"	1712	"Private"	"Other service"	0	0	40
+"1556"	1717	"Private"	"Handlers cleaners"	0	0	40
+"1557"	1720	"Private"	"Prof specialty"	0	0	40
+"1558"	1721	"Private"	"Adm clerical"	0	0	40
+"1559"	1722	"Private"	"Handlers cleaners"	0	0	40
+"1560"	1724	"Private"	"Sales"	0	0	40
+"1561"	1726	"Private"	"Craft repair"	0	0	40
+"1562"	1727	"Private"	"Adm clerical"	0	0	40
+"1563"	1728	"Private"	"Craft repair"	0	0	40
+"1564"	1729	"Private"	"Other service"	0	0	40
+"1565"	1737	"Private"	"Handlers cleaners"	0	0	40
+"1566"	1738	"Private"	"Farming fishing"	0	0	40
+"1567"	1742	"Federal gov"	"Adm clerical"	0	0	40
+"1568"	1744	"Private"	"Craft repair"	0	0	40
+"1569"	1745	"Private"	"Craft repair"	0	0	40
+"1570"	1747	"Private"	"Transport moving"	0	0	40
+"1571"	1750	"Private"	"Tech support"	0	0	40
+"1572"	1751	"Self emp not inc"	"Farming fishing"	4508	0	40
+"1573"	1755	"Self emp not inc"	"Craft repair"	0	0	40
+"1574"	1757	"Private"	"Other service"	0	0	40
+"1575"	1760	"Private"	"Farming fishing"	0	0	40
+"1576"	1762	"Private"	"Other service"	0	0	40
+"1577"	1764	"Local gov"	"Protective serv"	0	0	40
+"1578"	1769	"Self emp not inc"	"Craft repair"	0	0	40
+"1579"	1772	"Private"	"Machine op inspct"	0	0	40
+"1580"	1773	"Private"	"Machine op inspct"	0	0	40
+"1581"	1774	"Private"	"Craft repair"	0	0	40
+"1582"	1775	"Private"	"Craft repair"	0	0	40
+"1583"	1778	"Private"	"Adm clerical"	0	0	40
+"1584"	1779	"Private"	"Sales"	0	0	40
+"1585"	1780	"Private"	"Craft repair"	0	0	40
+"1586"	1783	"Private"	"Other service"	0	0	40
+"1587"	1785	"Private"	"Prof specialty"	0	0	40
+"1588"	1787	"Private"	"Prof specialty"	0	0	40
+"1589"	1788	"Private"	"Transport moving"	0	0	40
+"1590"	1790	"Private"	"Machine op inspct"	0	0	40
+"1591"	1791	"Private"	"Other service"	0	0	40
+"1592"	1798	"Private"	"Craft repair"	0	0	40
+"1593"	1799	NA	NA	0	1602	40
+"1594"	1800	"Private"	"Handlers cleaners"	0	0	40
+"1595"	1801	"Private"	"Machine op inspct"	0	0	40
+"1596"	1802	"Local gov"	"Sales"	7298	0	40
+"1597"	1803	"Private"	"Craft repair"	0	0	40
+"1598"	1804	"Private"	"Other service"	0	0	40
+"1599"	1805	"State gov"	"Prof specialty"	0	0	40
+"1600"	1810	"Private"	"Other service"	0	0	40
+"1601"	1811	"Self emp not inc"	"Sales"	0	0	40
+"1602"	1812	"Private"	"Handlers cleaners"	0	0	40
+"1603"	1814	"Private"	"Tech support"	0	0	40
+"1604"	1817	"Private"	"Transport moving"	0	0	40
+"1605"	1823	"Private"	"Other service"	0	0	40
+"1606"	1825	"Private"	"Exec managerial"	0	0	40
+"1607"	1826	"Private"	"Adm clerical"	0	0	40
+"1608"	1830	"Private"	"Machine op inspct"	0	0	40
+"1609"	1831	"State gov"	"Exec managerial"	0	0	40
+"1610"	1833	"Private"	"Prof specialty"	0	0	40
+"1611"	1836	"Private"	"Priv house serv"	0	0	40
+"1612"	1838	"Private"	"Exec managerial"	0	0	40
+"1613"	1839	"Private"	"Handlers cleaners"	0	0	40
+"1614"	1840	"Local gov"	"Adm clerical"	0	0	40
+"1615"	1841	"Private"	"Craft repair"	0	0	40
+"1616"	1843	NA	NA	0	0	40
+"1617"	1844	NA	NA	0	0	40
+"1618"	1845	"Private"	"Other service"	0	0	40
+"1619"	1847	NA	NA	0	0	40
+"1620"	1848	"Private"	"Other service"	0	0	40
+"1621"	1850	"Private"	"Machine op inspct"	0	0	40
+"1622"	1852	"Private"	"Prof specialty"	0	0	40
+"1623"	1853	"Private"	"Priv house serv"	0	0	40
+"1624"	1854	"Private"	"Protective serv"	0	0	40
+"1625"	1855	"Private"	"Machine op inspct"	2977	0	40
+"1626"	1856	"Private"	"Machine op inspct"	0	0	40
+"1627"	1857	"Private"	"Sales"	0	0	40
+"1628"	1858	NA	NA	0	0	40
+"1629"	1860	NA	NA	0	0	40
+"1630"	1861	"Private"	"Handlers cleaners"	0	0	40
+"1631"	1862	"Private"	"Machine op inspct"	0	0	40
+"1632"	1864	"Private"	"Craft repair"	0	0	40
+"1633"	1866	"Private"	"Prof specialty"	0	0	40
+"1634"	1869	"Private"	"Craft repair"	0	0	40
+"1635"	1870	"Private"	"Handlers cleaners"	0	0	40
+"1636"	1871	"Private"	"Adm clerical"	0	0	40
+"1637"	1873	"Private"	"Sales"	0	0	40
+"1638"	1876	"Private"	"Prof specialty"	0	0	40
+"1639"	1880	"Private"	"Adm clerical"	0	0	40
+"1640"	1881	"Private"	"Prof specialty"	0	0	40
+"1641"	1887	"Private"	"Craft repair"	0	0	40
+"1642"	1888	"Private"	"Craft repair"	0	0	40
+"1643"	1892	"Private"	"Exec managerial"	0	0	40
+"1644"	1893	"Federal gov"	"Prof specialty"	0	0	40
+"1645"	1895	"Private"	"Adm clerical"	0	0	40
+"1646"	1896	"Private"	"Machine op inspct"	0	0	40
+"1647"	1897	"Private"	"Other service"	0	0	40
+"1648"	1899	"Private"	"Craft repair"	0	0	40
+"1649"	1902	"Private"	"Farming fishing"	0	0	40
+"1650"	1905	"Private"	"Machine op inspct"	0	0	40
+"1651"	1906	"Private"	"Other service"	0	0	40
+"1652"	1907	"Local gov"	"Craft repair"	0	0	40
+"1653"	1908	"Private"	"Machine op inspct"	0	0	40
+"1654"	1909	NA	NA	0	0	40
+"1655"	1910	"Private"	"Sales"	0	0	40
+"1656"	1913	"Private"	"Craft repair"	0	0	40
+"1657"	1914	"Private"	"Handlers cleaners"	0	0	40
+"1658"	1917	"Private"	"Adm clerical"	0	0	40
+"1659"	1918	"Private"	"Machine op inspct"	0	0	40
+"1660"	1920	"Private"	"Other service"	0	0	40
+"1661"	1921	"Private"	"Machine op inspct"	0	0	40
+"1662"	1922	"Private"	"Machine op inspct"	0	0	40
+"1663"	1923	"Local gov"	"Adm clerical"	0	0	40
+"1664"	1924	"Self emp not inc"	"Sales"	0	0	40
+"1665"	1925	"Private"	"Machine op inspct"	3137	0	40
+"1666"	1926	"Private"	"Machine op inspct"	0	0	40
+"1667"	1928	"Private"	"Handlers cleaners"	0	0	40
+"1668"	1929	"Private"	"Adm clerical"	4416	0	40
+"1669"	1930	"Local gov"	"Exec managerial"	0	0	40
+"1670"	1931	"Private"	"Farming fishing"	3411	0	40
+"1671"	1932	"Private"	"Exec managerial"	15024	0	40
+"1672"	1933	NA	NA	0	0	40
+"1673"	1935	"Private"	"Craft repair"	0	0	40
+"1674"	1940	"Private"	"Prof specialty"	0	0	40
+"1675"	1941	"State gov"	"Prof specialty"	0	0	40
+"1676"	1942	"Private"	"Other service"	0	0	40
+"1677"	1943	"Private"	"Craft repair"	0	0	40
+"1678"	1944	"Private"	"Transport moving"	0	0	40
+"1679"	1945	"Private"	"Other service"	0	0	40
+"1680"	1947	"Private"	"Transport moving"	0	0	40
+"1681"	1948	"Self emp inc"	"Other service"	0	0	40
+"1682"	1949	"Self emp inc"	"Exec managerial"	0	0	40
+"1683"	1950	"Private"	"Exec managerial"	0	0	40
+"1684"	1953	"Private"	"Adm clerical"	0	0	40
+"1685"	1957	"Self emp inc"	"Sales"	0	0	40
+"1686"	1958	"Private"	"Machine op inspct"	0	0	40
+"1687"	1960	"Private"	"Exec managerial"	0	0	40
+"1688"	1962	"Private"	"Machine op inspct"	0	0	40
+"1689"	1963	"Private"	"Other service"	0	0	40
+"1690"	1964	"Private"	"Other service"	0	0	40
+"1691"	1967	"Self emp not inc"	"Craft repair"	0	0	40
+"1692"	1968	"Private"	"Handlers cleaners"	0	0	40
+"1693"	1969	"Private"	"Other service"	0	0	40
+"1694"	1971	"Private"	"Craft repair"	0	0	40
+"1695"	1973	"Private"	"Protective serv"	0	0	40
+"1696"	1974	"Federal gov"	"Prof specialty"	0	0	40
+"1697"	1976	"Private"	"Craft repair"	0	0	40
+"1698"	1978	"Private"	"Farming fishing"	0	0	40
+"1699"	1980	"Private"	"Craft repair"	0	0	40
+"1700"	1981	"Self emp not inc"	"Exec managerial"	0	0	40
+"1701"	1987	"Private"	"Machine op inspct"	0	0	40
+"1702"	1988	NA	NA	0	0	40
+"1703"	1990	"Private"	"Craft repair"	0	0	40
+"1704"	1993	"Private"	"Adm clerical"	0	0	40
+"1705"	1995	"Private"	"Prof specialty"	0	1902	40
+"1706"	1996	"Private"	"Other service"	0	0	40
+"1707"	1997	"Private"	"Craft repair"	0	0	40
+"1708"	1998	"State gov"	"Other service"	0	0	40
+"1709"	2005	"Private"	"Adm clerical"	0	2339	40
+"1710"	2008	"Private"	"Craft repair"	0	0	40
+"1711"	2013	"Private"	"Adm clerical"	0	0	40
+"1712"	2014	"Private"	"Adm clerical"	0	0	40
+"1713"	2015	"Private"	"Sales"	0	0	40
+"1714"	2018	"Private"	"Craft repair"	0	0	40
+"1715"	2020	"Private"	"Machine op inspct"	0	0	40
+"1716"	2021	"Private"	"Handlers cleaners"	0	0	40
+"1717"	2022	"Private"	"Other service"	0	0	40
+"1718"	2023	"Private"	"Other service"	0	0	40
+"1719"	2024	"Private"	"Tech support"	0	0	40
+"1720"	2026	"Private"	"Craft repair"	0	0	40
+"1721"	2028	"Private"	"Other service"	0	0	40
+"1722"	2029	"Private"	"Handlers cleaners"	0	0	40
+"1723"	2030	"Private"	"Machine op inspct"	0	0	40
+"1724"	2031	"Private"	"Sales"	0	0	40
+"1725"	2034	"Private"	"Craft repair"	0	0	40
+"1726"	2036	"Private"	"Other service"	0	0	40
+"1727"	2039	"Private"	"Transport moving"	0	0	40
+"1728"	2041	"Private"	"Prof specialty"	0	0	40
+"1729"	2042	"Local gov"	"Protective serv"	0	0	40
+"1730"	2045	"Private"	"Sales"	0	0	40
+"1731"	2047	"State gov"	"Protective serv"	0	0	40
+"1732"	2055	"Private"	"Machine op inspct"	0	0	40
+"1733"	2056	"Private"	"Machine op inspct"	3137	0	40
+"1734"	2057	"Private"	"Craft repair"	0	0	40
+"1735"	2058	"Private"	"Exec managerial"	0	0	40
+"1736"	2060	"Federal gov"	"Tech support"	0	0	40
+"1737"	2062	"Private"	"Other service"	0	0	40
+"1738"	2063	"State gov"	"Adm clerical"	0	1485	40
+"1739"	2064	"Private"	"Machine op inspct"	0	0	40
+"1740"	2066	"Private"	"Farming fishing"	0	0	40
+"1741"	2068	NA	NA	20051	0	40
+"1742"	2069	"Self emp not inc"	"Craft repair"	0	0	40
+"1743"	2070	"Private"	"Farming fishing"	0	0	40
+"1744"	2073	"Private"	"Other service"	0	0	40
+"1745"	2075	"Private"	"Transport moving"	0	0	40
+"1746"	2077	"Federal gov"	"Exec managerial"	0	0	40
+"1747"	2079	"Private"	"Handlers cleaners"	0	0	40
+"1748"	2081	"Private"	"Adm clerical"	0	0	40
+"1749"	2085	"Private"	"Machine op inspct"	0	0	40
+"1750"	2089	"Private"	"Prof specialty"	0	0	40
+"1751"	2090	"Private"	"Exec managerial"	0	0	40
+"1752"	2091	"Private"	"Other service"	0	0	40
+"1753"	2092	"Private"	"Machine op inspct"	0	0	40
+"1754"	2093	"Self emp inc"	"Sales"	0	0	40
+"1755"	2094	"Private"	"Machine op inspct"	0	0	40
+"1756"	2095	"Private"	"Craft repair"	0	0	40
+"1757"	2096	"Private"	"Sales"	0	0	40
+"1758"	2099	"Private"	"Craft repair"	0	0	40
+"1759"	2100	"Private"	"Machine op inspct"	0	0	40
+"1760"	2101	"Private"	"Protective serv"	0	0	40
+"1761"	2102	NA	NA	0	0	40
+"1762"	2103	"Private"	"Prof specialty"	0	0	40
+"1763"	2104	"Private"	"Prof specialty"	0	0	40
+"1764"	2105	"Private"	"Protective serv"	0	0	40
+"1765"	2106	"Local gov"	"Prof specialty"	0	0	40
+"1766"	2107	"Private"	"Handlers cleaners"	0	0	40
+"1767"	2108	"Private"	"Adm clerical"	0	0	40
+"1768"	2109	"Private"	"Handlers cleaners"	0	0	40
+"1769"	2110	"Private"	"Machine op inspct"	0	0	40
+"1770"	2111	"Self emp inc"	"Prof specialty"	0	0	40
+"1771"	2112	"Local gov"	"Prof specialty"	0	0	40
+"1772"	2113	"Self emp inc"	"Machine op inspct"	0	0	40
+"1773"	2114	"Private"	"Exec managerial"	0	0	40
+"1774"	2116	"Private"	"Transport moving"	0	0	40
+"1775"	2118	"Local gov"	"Prof specialty"	0	0	40
+"1776"	2120	"Private"	"Other service"	0	0	40
+"1777"	2121	"Private"	"Prof specialty"	0	2339	40
+"1778"	2123	"Private"	"Handlers cleaners"	0	0	40
+"1779"	2124	"Private"	"Sales"	0	0	40
+"1780"	2125	NA	NA	0	0	40
+"1781"	2126	"Private"	"Tech support"	0	0	40
+"1782"	2127	"Private"	"Machine op inspct"	0	0	40
+"1783"	2130	"Private"	"Sales"	0	0	40
+"1784"	2131	"Private"	"Prof specialty"	0	0	40
+"1785"	2132	"Private"	"Machine op inspct"	3464	0	40
+"1786"	2136	"Private"	"Machine op inspct"	0	0	40
+"1787"	2137	"Private"	"Adm clerical"	0	0	40
+"1788"	2138	"Private"	"Machine op inspct"	0	0	40
+"1789"	2140	"Private"	"Prof specialty"	0	0	40
+"1790"	2141	"Private"	"Craft repair"	0	0	40
+"1791"	2143	"Private"	"Exec managerial"	0	0	40
+"1792"	2144	"Private"	"Tech support"	0	0	40
+"1793"	2145	"Private"	"Other service"	0	0	40
+"1794"	2147	"Federal gov"	"Prof specialty"	0	0	40
+"1795"	2151	"Private"	"Adm clerical"	0	0	40
+"1796"	2152	"Private"	"Machine op inspct"	0	0	40
+"1797"	2153	"Private"	"Craft repair"	0	0	40
+"1798"	2155	"Local gov"	"Adm clerical"	0	0	40
+"1799"	2156	"Private"	"Other service"	0	0	40
+"1800"	2157	"Private"	"Other service"	0	0	40
+"1801"	2158	"Private"	"Machine op inspct"	0	0	40
+"1802"	2159	"Private"	"Tech support"	0	0	40
+"1803"	2162	"Private"	"Sales"	0	0	40
+"1804"	2163	"Private"	"Exec managerial"	3103	0	40
+"1805"	2164	"Private"	"Exec managerial"	2597	0	40
+"1806"	2166	"Private"	"Tech support"	0	0	40
+"1807"	2169	"Self emp inc"	"Farming fishing"	0	0	40
+"1808"	2170	"Private"	"Adm clerical"	0	1977	40
+"1809"	2171	"Private"	"Priv house serv"	0	0	40
+"1810"	2172	"Private"	"Prof specialty"	0	0	40
+"1811"	2173	"Private"	"Machine op inspct"	0	0	40
+"1812"	2177	"Private"	"Prof specialty"	0	0	40
+"1813"	2181	"Private"	"Machine op inspct"	0	0	40
+"1814"	2183	"Private"	"Craft repair"	0	0	40
+"1815"	2185	"Private"	"Adm clerical"	0	0	40
+"1816"	2187	"Private"	"Adm clerical"	0	0	40
+"1817"	2188	"Private"	"Prof specialty"	0	0	40
+"1818"	2190	"Private"	"Craft repair"	0	0	40
+"1819"	2192	"Private"	"Adm clerical"	0	0	40
+"1820"	2195	"Private"	"Handlers cleaners"	0	0	40
+"1821"	2196	"Private"	"Adm clerical"	0	0	40
+"1822"	2198	"Private"	"Exec managerial"	0	0	40
+"1823"	2199	"Private"	"Other service"	0	0	40
+"1824"	2200	"Private"	"Other service"	0	0	40
+"1825"	2201	"Private"	"Prof specialty"	0	0	40
+"1826"	2202	"Private"	"Machine op inspct"	0	0	40
+"1827"	2203	"Private"	"Adm clerical"	0	0	40
+"1828"	2205	"Private"	"Craft repair"	0	0	40
+"1829"	2207	"Private"	"Craft repair"	0	0	40
+"1830"	2208	"Private"	"Farming fishing"	0	0	40
+"1831"	2209	"Private"	"Craft repair"	0	0	40
+"1832"	2210	"Private"	"Adm clerical"	0	0	40
+"1833"	2212	"Private"	"Machine op inspct"	0	0	40
+"1834"	2213	"Private"	"Other service"	0	0	40
+"1835"	2215	"Self emp not inc"	"Exec managerial"	0	0	40
+"1836"	2216	NA	NA	0	0	40
+"1837"	2217	"Private"	"Sales"	2174	0	40
+"1838"	2218	"Private"	"Craft repair"	0	0	40
+"1839"	2223	"Private"	"Farming fishing"	0	0	40
+"1840"	2225	"Private"	"Machine op inspct"	0	0	40
+"1841"	2227	"Private"	"Tech support"	0	0	40
+"1842"	2231	"Private"	"Adm clerical"	0	0	40
+"1843"	2232	"Private"	"Transport moving"	0	0	40
+"1844"	2233	"Self emp inc"	"Exec managerial"	0	0	40
+"1845"	2234	"Private"	"Other service"	0	0	40
+"1846"	2235	"Private"	"Machine op inspct"	0	0	40
+"1847"	2236	"Local gov"	"Farming fishing"	0	0	40
+"1848"	2237	"Private"	"Protective serv"	0	0	40
+"1849"	2238	"Private"	"Adm clerical"	0	0	40
+"1850"	2239	"Private"	"Priv house serv"	0	0	40
+"1851"	2248	"Private"	"Exec managerial"	0	0	40
+"1852"	2250	"Private"	"Machine op inspct"	0	0	40
+"1853"	2255	"Private"	"Other service"	0	0	40
+"1854"	2257	"Private"	"Prof specialty"	0	0	40
+"1855"	2258	"Private"	"Other service"	0	2603	40
+"1856"	2260	"Private"	"Other service"	0	0	40
+"1857"	2264	"Private"	"Adm clerical"	0	0	40
+"1858"	2265	"Private"	"Handlers cleaners"	0	0	40
+"1859"	2266	"Private"	"Adm clerical"	0	0	40
+"1860"	2267	"Private"	"Farming fishing"	0	0	40
+"1861"	2268	"Private"	"Sales"	0	0	40
+"1862"	2269	"Private"	"Machine op inspct"	0	0	40
+"1863"	2271	"Private"	"Handlers cleaners"	0	0	40
+"1864"	2272	"Private"	"Other service"	0	0	40
+"1865"	2273	"Private"	"Other service"	0	0	40
+"1866"	2274	"Private"	"Prof specialty"	5178	0	40
+"1867"	2277	"Private"	"Craft repair"	0	0	40
+"1868"	2278	"Private"	"Farming fishing"	0	0	40
+"1869"	2279	"Local gov"	"Adm clerical"	0	0	40
+"1870"	2280	"Private"	"Tech support"	0	0	40
+"1871"	2282	"Private"	"Sales"	0	1590	40
+"1872"	2283	"Private"	"Machine op inspct"	3781	0	40
+"1873"	2284	"Private"	"Handlers cleaners"	0	0	40
+"1874"	2285	"Private"	"Tech support"	0	0	40
+"1875"	2288	"Federal gov"	"Exec managerial"	0	0	40
+"1876"	2291	"Private"	"Adm clerical"	0	0	40
+"1877"	2292	"Private"	"Other service"	0	0	40
+"1878"	2294	"Private"	"Sales"	0	0	40
+"1879"	2297	"Private"	"Other service"	0	0	40
+"1880"	2299	"Private"	"Farming fishing"	0	0	40
+"1881"	2300	"Federal gov"	"Prof specialty"	0	0	40
+"1882"	2302	"Self emp inc"	"Prof specialty"	0	0	40
+"1883"	2303	"Private"	"Prof specialty"	0	0	40
+"1884"	2304	"Private"	"Other service"	0	0	40
+"1885"	2305	"Private"	"Other service"	0	0	40
+"1886"	2308	"Private"	"Adm clerical"	0	0	40
+"1887"	2309	"Private"	"Craft repair"	7688	0	40
+"1888"	2311	"Private"	"Machine op inspct"	0	0	40
+"1889"	2312	"Private"	"Craft repair"	0	0	40
+"1890"	2313	"Private"	"Adm clerical"	0	0	40
+"1891"	2314	"Private"	"Craft repair"	4386	0	40
+"1892"	2316	"Private"	"Craft repair"	0	0	40
+"1893"	2317	"Private"	"Machine op inspct"	0	0	40
+"1894"	2318	"Private"	"Machine op inspct"	0	0	40
+"1895"	2319	"Private"	"Craft repair"	0	0	40
+"1896"	2324	"Private"	"Machine op inspct"	0	0	40
+"1897"	2330	"Private"	"Other service"	0	0	40
+"1898"	2332	"Private"	"Handlers cleaners"	0	0	40
+"1899"	2334	"Private"	"Protective serv"	0	0	40
+"1900"	2337	"Private"	"Craft repair"	0	0	40
+"1901"	2338	"State gov"	"Other service"	0	0	40
+"1902"	2340	"Private"	"Craft repair"	0	0	40
+"1903"	2341	"Private"	"Handlers cleaners"	0	0	40
+"1904"	2343	"Private"	"Machine op inspct"	0	0	40
+"1905"	2344	"Private"	"Machine op inspct"	0	0	40
+"1906"	2345	"Private"	"Craft repair"	0	0	40
+"1907"	2346	"Private"	"Other service"	0	0	40
+"1908"	2348	"State gov"	"Craft repair"	0	0	40
+"1909"	2351	"Private"	"Prof specialty"	4386	0	40
+"1910"	2352	"Self emp not inc"	"Handlers cleaners"	0	0	40
+"1911"	2353	"Private"	"Other service"	0	0	40
+"1912"	2354	"Private"	"Farming fishing"	0	0	40
+"1913"	2358	"Private"	"Craft repair"	0	0	40
+"1914"	2361	"Private"	"Priv house serv"	0	0	40
+"1915"	2362	"Private"	"Prof specialty"	0	0	40
+"1916"	2364	"Local gov"	"Prof specialty"	0	0	40
+"1917"	2367	"Private"	"Exec managerial"	0	0	40
+"1918"	2368	"Private"	"Other service"	0	0	40
+"1919"	2369	"Self emp not inc"	"Craft repair"	0	0	40
+"1920"	2371	"Private"	"Sales"	0	0	40
+"1921"	2372	"State gov"	"Transport moving"	0	0	40
+"1922"	2374	"Private"	"Handlers cleaners"	0	0	40
+"1923"	2375	"Private"	"Other service"	0	0	40
+"1924"	2376	"Private"	"Craft repair"	0	0	40
+"1925"	2378	"Private"	"Farming fishing"	0	0	40
+"1926"	2379	"Private"	"Machine op inspct"	0	0	40
+"1927"	2380	"Private"	"Tech support"	0	1977	40
+"1928"	2381	"Private"	"Craft repair"	0	0	40
+"1929"	2383	"Private"	"Craft repair"	0	0	40
+"1930"	2385	"Private"	"Craft repair"	0	0	40
+"1931"	2387	"Private"	"Machine op inspct"	0	0	40
+"1932"	2391	"Private"	"Prof specialty"	5013	0	40
+"1933"	2392	"Private"	"Craft repair"	3674	0	40
+"1934"	2394	"Private"	"Craft repair"	0	0	40
+"1935"	2396	"Private"	"Adm clerical"	0	0	40
+"1936"	2398	"Private"	"Prof specialty"	0	0	40
+"1937"	2399	"Private"	"Transport moving"	0	0	40
+"1938"	2401	"Private"	"Transport moving"	0	0	40
+"1939"	2405	"Private"	"Prof specialty"	0	0	40
+"1940"	2407	"Private"	"Handlers cleaners"	0	0	40
+"1941"	2408	"Private"	"Adm clerical"	0	0	40
+"1942"	2409	"Private"	"Other service"	0	0	40
+"1943"	2411	"Private"	"Farming fishing"	0	0	40
+"1944"	2413	"Private"	"Handlers cleaners"	0	0	40
+"1945"	2414	"Private"	"Machine op inspct"	0	0	40
+"1946"	2417	"Private"	"Farming fishing"	0	0	40
+"1947"	2420	"Private"	"Prof specialty"	0	0	40
+"1948"	2423	"Local gov"	"Craft repair"	0	0	40
+"1949"	2425	NA	NA	0	0	40
+"1950"	2426	"Private"	"Handlers cleaners"	0	0	40
+"1951"	2428	"Local gov"	"Adm clerical"	0	0	40
+"1952"	2432	"Private"	"Craft repair"	0	0	40
+"1953"	2433	"Private"	"Sales"	0	0	40
+"1954"	2434	"Private"	"Priv house serv"	2176	0	40
+"1955"	2435	"Private"	"Exec managerial"	0	0	40
+"1956"	2436	"Private"	"Craft repair"	0	0	40
+"1957"	2437	"Private"	"Craft repair"	0	0	40
+"1958"	2440	"Private"	"Craft repair"	0	0	40
+"1959"	2442	"Private"	"Machine op inspct"	0	0	40
+"1960"	2443	"Private"	"Transport moving"	0	0	40
+"1961"	2445	"Private"	"Machine op inspct"	0	0	40
+"1962"	2447	"Private"	"Other service"	0	0	40
+"1963"	2448	"Private"	"Handlers cleaners"	0	0	40
+"1964"	2450	"Private"	"Transport moving"	0	0	40
+"1965"	2455	"State gov"	"Exec managerial"	0	0	40
+"1966"	2457	"Private"	"Prof specialty"	0	0	40
+"1967"	2458	"Federal gov"	"Adm clerical"	0	0	40
+"1968"	2459	"Private"	"Other service"	7298	0	40
+"1969"	2460	"Private"	"Exec managerial"	0	0	40
+"1970"	2461	"Private"	"Craft repair"	0	0	40
+"1971"	2465	"Private"	"Tech support"	0	0	40
+"1972"	2466	"Private"	"Adm clerical"	2463	0	40
+"1973"	2467	"Private"	"Exec managerial"	0	0	40
+"1974"	2469	"Private"	"Machine op inspct"	0	0	40
+"1975"	2470	"Private"	"Sales"	0	0	40
+"1976"	2471	"Local gov"	"Adm clerical"	0	0	40
+"1977"	2472	"Private"	"Priv house serv"	0	0	40
+"1978"	2473	"Private"	"Prof specialty"	0	0	40
+"1979"	2476	"Private"	"Sales"	0	0	40
+"1980"	2477	"Private"	"Machine op inspct"	0	0	40
+"1981"	2478	"Private"	"Machine op inspct"	0	0	40
+"1982"	2479	"Local gov"	"Other service"	0	0	40
+"1983"	2480	"Local gov"	"Transport moving"	0	0	40
+"1984"	2481	"Private"	"Machine op inspct"	0	0	40
+"1985"	2482	"Private"	"Farming fishing"	0	0	40
+"1986"	2484	"Private"	"Tech support"	0	0	40
+"1987"	2490	"Private"	"Craft repair"	0	0	40
+"1988"	2493	"State gov"	"Exec managerial"	0	0	40
+"1989"	2498	"Local gov"	"Prof specialty"	0	0	40
+"1990"	2499	"State gov"	"Exec managerial"	0	0	40
+"1991"	2501	"Private"	"Machine op inspct"	0	0	40
+"1992"	2502	"Private"	"Machine op inspct"	0	0	40
+"1993"	2503	"Private"	"Craft repair"	0	0	40
+"1994"	2504	"Private"	"Prof specialty"	0	0	40
+"1995"	2507	"Private"	"Sales"	0	0	40
+"1996"	2508	"Private"	"Craft repair"	0	0	40
+"1997"	2511	"Private"	"Handlers cleaners"	0	0	40
+"1998"	2512	"Private"	"Exec managerial"	0	0	40
+"1999"	2513	"Private"	"Exec managerial"	0	0	40
+"2000"	2514	"Private"	"Craft repair"	0	0	40
+"2001"	2515	"Private"	"Machine op inspct"	0	0	40
+"2002"	2517	"Private"	"Handlers cleaners"	7298	0	40
+"2003"	2518	"Federal gov"	"Adm clerical"	0	0	40
+"2004"	2519	NA	NA	0	0	40
+"2005"	2521	"Private"	"Adm clerical"	0	0	40
+"2006"	2523	"State gov"	"Other service"	0	0	40
+"2007"	2524	"Private"	"Sales"	0	0	40
+"2008"	2525	"Private"	"Craft repair"	0	0	40
+"2009"	2528	"Private"	"Other service"	0	0	40
+"2010"	2530	"Private"	"Machine op inspct"	0	0	40
+"2011"	2536	"Private"	"Craft repair"	0	0	40
+"2012"	2537	"Private"	"Other service"	0	0	40
+"2013"	2538	"Private"	"Machine op inspct"	0	0	40
+"2014"	2539	"Private"	"Craft repair"	0	1485	40
+"2015"	2541	"Private"	"Exec managerial"	0	0	40
+"2016"	2544	"Private"	"Other service"	0	0	40
+"2017"	2548	"Private"	"Adm clerical"	0	0	40
+"2018"	2549	"Private"	"Adm clerical"	0	1887	40
+"2019"	2551	"Private"	"Craft repair"	0	2051	40
+"2020"	2552	"Local gov"	"Craft repair"	0	1887	40
+"2021"	2555	"Private"	"Sales"	0	0	40
+"2022"	2558	"Private"	"Transport moving"	0	0	40
+"2023"	2559	"Private"	"Handlers cleaners"	0	0	40
+"2024"	2564	"Private"	"Machine op inspct"	0	0	40
+"2025"	2565	"Private"	"Handlers cleaners"	0	0	40
+"2026"	2566	"Self emp not inc"	"Farming fishing"	0	0	40
+"2027"	2568	"Private"	"Other service"	0	0	40
+"2028"	2570	"Private"	"Craft repair"	0	0	40
+"2029"	2573	"Private"	"Farming fishing"	0	0	40
+"2030"	2574	"Private"	"Adm clerical"	0	0	40
+"2031"	2577	"Private"	"Transport moving"	3411	0	40
+"2032"	2578	"Private"	"Prof specialty"	0	0	40
+"2033"	2579	"Private"	"Other service"	0	0	40
+"2034"	2580	"Private"	"Prof specialty"	0	0	40
+"2035"	2582	"Private"	"Adm clerical"	0	0	40
+"2036"	2583	NA	NA	0	0	40
+"2037"	2589	"Private"	"Other service"	0	0	40
+"2038"	2591	"Self emp not inc"	"Craft repair"	0	0	40
+"2039"	2592	"Local gov"	"Prof specialty"	0	0	40
+"2040"	2593	"Private"	"Machine op inspct"	0	0	40
+"2041"	2596	"Private"	"Other service"	0	0	40
+"2042"	2598	"Private"	"Handlers cleaners"	0	0	40
+"2043"	2600	NA	NA	0	0	40
+"2044"	2605	"Private"	"Farming fishing"	0	0	40
+"2045"	2607	"Private"	"Machine op inspct"	0	0	40
+"2046"	2609	"Private"	"Machine op inspct"	0	0	40
+"2047"	2612	"Private"	"Handlers cleaners"	0	0	40
+"2048"	2613	"Private"	"Adm clerical"	0	0	40
+"2049"	2615	"Private"	"Adm clerical"	0	0	40
+"2050"	2616	"Private"	"Other service"	0	0	40
+"2051"	2618	"Private"	"Adm clerical"	0	0	40
+"2052"	2624	"Private"	"Adm clerical"	0	0	40
+"2053"	2625	"Private"	"Adm clerical"	0	0	40
+"2054"	2626	"Private"	"Other service"	0	0	40
+"2055"	2627	"Private"	"Prof specialty"	0	0	40
+"2056"	2628	"Private"	"Craft repair"	0	0	40
+"2057"	2631	"Private"	"Tech support"	0	0	40
+"2058"	2632	"Private"	"Prof specialty"	0	0	40
+"2059"	2635	"Private"	"Adm clerical"	0	0	40
+"2060"	2636	"Private"	"Farming fishing"	0	0	40
+"2061"	2639	"Private"	"Craft repair"	5013	0	40
+"2062"	2642	"Private"	"Machine op inspct"	0	0	40
+"2063"	2643	"Private"	"Other service"	0	0	40
+"2064"	2645	"Private"	"Tech support"	0	0	40
+"2065"	2649	"Local gov"	"Prof specialty"	0	0	40
+"2066"	2650	"Private"	"Craft repair"	0	0	40
+"2067"	2652	"Private"	"Handlers cleaners"	0	0	40
+"2068"	2653	"Private"	"Prof specialty"	0	0	40
+"2069"	2654	"Private"	"Machine op inspct"	0	0	40
+"2070"	2656	"Private"	"Sales"	0	0	40
+"2071"	2657	"Private"	"Other service"	0	0	40
+"2072"	2658	"Private"	"Adm clerical"	0	0	40
+"2073"	2660	"Private"	"Tech support"	0	0	40
+"2074"	2661	"Private"	"Other service"	0	1672	40
+"2075"	2662	"Private"	"Other service"	0	0	40
+"2076"	2663	NA	NA	0	0	40
+"2077"	2665	NA	NA	0	0	40
+"2078"	2666	NA	NA	0	0	40
+"2079"	2670	"Private"	"Craft repair"	0	0	40
+"2080"	2671	"Private"	"Adm clerical"	0	0	40
+"2081"	2673	"Private"	"Craft repair"	0	0	40
+"2082"	2674	"Federal gov"	"Prof specialty"	15024	0	40
+"2083"	2676	"Local gov"	"Handlers cleaners"	0	0	40
+"2084"	2677	"Private"	"Exec managerial"	0	0	40
+"2085"	2680	"Private"	"Craft repair"	0	0	40
+"2086"	2681	"Private"	"Machine op inspct"	0	0	40
+"2087"	2682	"Private"	"Prof specialty"	0	0	40
+"2088"	2683	"Private"	"Handlers cleaners"	0	0	40
+"2089"	2685	"Private"	"Machine op inspct"	0	0	40
+"2090"	2687	"Private"	"Prof specialty"	0	0	40
+"2091"	2689	"Private"	"Farming fishing"	0	0	40
+"2092"	2692	"Private"	"Craft repair"	0	0	40
+"2093"	2694	"Self emp not inc"	"Prof specialty"	27828	0	40
+"2094"	2695	"Private"	"Craft repair"	0	0	40
+"2095"	2696	"Private"	"Other service"	0	0	40
+"2096"	2697	"Private"	"Machine op inspct"	0	0	40
+"2097"	2699	"Federal gov"	"Adm clerical"	0	0	40
+"2098"	2705	"Private"	"Machine op inspct"	0	0	40
+"2099"	97	NA	NA	0	0	41
+"2100"	45	"Private"	"Other service"	0	0	42
+"2101"	484	"Private"	"Craft repair"	0	0	42
+"2102"	683	"Private"	"Other service"	0	0	42
+"2103"	804	"Private"	"Exec managerial"	0	0	42
+"2104"	1207	"Private"	"Exec managerial"	0	0	42
+"2105"	1283	"Self emp not inc"	"Farming fishing"	0	0	42
+"2106"	2242	"Private"	"Machine op inspct"	0	0	42
+"2107"	2355	"Private"	"Craft repair"	0	0	42
+"2108"	2454	"Local gov"	"Exec managerial"	0	0	42
+"2109"	2534	"Private"	"Other service"	0	0	42
+"2110"	2630	NA	NA	0	0	42
+"2111"	112	"Private"	"Machine op inspct"	0	0	43
+"2112"	114	"Private"	"Other service"	0	0	43
+"2113"	313	"Private"	"Machine op inspct"	0	0	43
+"2114"	443	"Private"	"Craft repair"	0	0	43
+"2115"	1246	"Private"	"Sales"	0	0	43
+"2116"	1758	"Private"	"Handlers cleaners"	0	0	43
+"2117"	1878	"Private"	"Sales"	0	0	43
+"2118"	2365	"Private"	"Prof specialty"	0	0	43
+"2119"	294	"Private"	"Machine op inspct"	0	0	44
+"2120"	946	"Private"	"Handlers cleaners"	0	0	44
+"2121"	1100	"Private"	"Sales"	0	0	44
+"2122"	1163	"Private"	"Craft repair"	0	0	44
+"2123"	1289	"Self emp inc"	"Exec managerial"	0	0	44
+"2124"	1416	"Private"	"Craft repair"	0	0	44
+"2125"	1650	"Private"	"Machine op inspct"	0	0	44
+"2126"	1792	"Private"	"Sales"	0	0	44
+"2127"	1891	"Private"	"Priv house serv"	0	0	44
+"2128"	1954	"Private"	"Other service"	0	0	44
+"2129"	2320	"Private"	"Machine op inspct"	0	0	44
+"2130"	2328	"Self emp inc"	"Sales"	0	0	44
+"2131"	4	"Private"	"Transport moving"	0	0	45
+"2132"	42	"Private"	"Craft repair"	0	0	45
+"2133"	89	"Self emp inc"	"Sales"	0	0	45
+"2134"	129	"Private"	"Machine op inspct"	0	0	45
+"2135"	130	"Private"	"Prof specialty"	0	0	45
+"2136"	142	"Private"	"Craft repair"	0	0	45
+"2137"	396	"Private"	"Transport moving"	0	1579	45
+"2138"	427	"Private"	"Farming fishing"	0	0	45
+"2139"	458	"Private"	"Craft repair"	0	0	45
+"2140"	482	"Private"	"Prof specialty"	0	0	45
+"2141"	485	"Federal gov"	"Adm clerical"	0	0	45
+"2142"	552	"Private"	"Exec managerial"	0	1902	45
+"2143"	562	"Private"	"Craft repair"	0	0	45
+"2144"	587	"Private"	"Craft repair"	0	0	45
+"2145"	607	"Private"	"Sales"	0	0	45
+"2146"	707	"Private"	"Adm clerical"	0	0	45
+"2147"	752	"Private"	"Craft repair"	0	0	45
+"2148"	761	"Private"	"Machine op inspct"	0	0	45
+"2149"	773	"Private"	"Farming fishing"	0	0	45
+"2150"	796	"Private"	"Priv house serv"	0	0	45
+"2151"	835	"Local gov"	"Prof specialty"	0	0	45
+"2152"	883	"Private"	"Sales"	0	0	45
+"2153"	928	"Private"	"Farming fishing"	0	0	45
+"2154"	1025	"Private"	"Craft repair"	0	0	45
+"2155"	1062	"Private"	"Other service"	0	0	45
+"2156"	1107	"Private"	"Sales"	0	0	45
+"2157"	1118	"Private"	"Sales"	0	0	45
+"2158"	1141	"Self emp not inc"	"Exec managerial"	0	0	45
+"2159"	1206	"Self emp not inc"	"Craft repair"	0	0	45
+"2160"	1238	"Self emp not inc"	"Exec managerial"	0	0	45
+"2161"	1250	"Private"	"Prof specialty"	0	0	45
+"2162"	1263	"Private"	"Farming fishing"	0	0	45
+"2163"	1299	"Private"	"Machine op inspct"	0	0	45
+"2164"	1311	NA	NA	0	0	45
+"2165"	1353	"Private"	"Exec managerial"	0	0	45
+"2166"	1372	"Private"	"Prof specialty"	0	0	45
+"2167"	1383	"Private"	"Farming fishing"	0	0	45
+"2168"	1398	"Self emp inc"	"Prof specialty"	0	0	45
+"2169"	1424	"Private"	"Other service"	0	0	45
+"2170"	1427	"Private"	"Prof specialty"	0	0	45
+"2171"	1436	"Private"	"Prof specialty"	0	0	45
+"2172"	1442	"Private"	"Exec managerial"	0	0	45
+"2173"	1447	"Private"	"Craft repair"	0	1876	45
+"2174"	1481	"Private"	"Craft repair"	0	0	45
+"2175"	1503	"Private"	"Prof specialty"	0	0	45
+"2176"	1512	"Private"	"Transport moving"	0	1977	45
+"2177"	1543	"Self emp inc"	"Exec managerial"	4787	0	45
+"2178"	1575	"Private"	"Craft repair"	0	0	45
+"2179"	1678	"Private"	"Sales"	0	0	45
+"2180"	1697	"Private"	"Farming fishing"	0	0	45
+"2181"	1754	"Private"	"Exec managerial"	0	0	45
+"2182"	1759	"Private"	"Craft repair"	0	0	45
+"2183"	1784	"Private"	"Sales"	0	0	45
+"2184"	1824	"Private"	"Other service"	0	0	45
+"2185"	1832	NA	NA	4787	0	45
+"2186"	1846	"Private"	"Prof specialty"	0	0	45
+"2187"	1865	"Self emp inc"	"Prof specialty"	0	0	45
+"2188"	1872	"Private"	"Exec managerial"	0	0	45
+"2189"	1884	"Self emp not inc"	"Prof specialty"	0	0	45
+"2190"	1894	"Private"	"Farming fishing"	0	0	45
+"2191"	1903	"Private"	"Prof specialty"	0	0	45
+"2192"	1970	"Self emp not inc"	"Transport moving"	0	0	45
+"2193"	1972	"Private"	"Handlers cleaners"	0	0	45
+"2194"	1999	"Private"	"Sales"	0	0	45
+"2195"	2006	"Self emp not inc"	"Exec managerial"	0	0	45
+"2196"	2037	"Private"	"Prof specialty"	0	0	45
+"2197"	2049	"Private"	"Craft repair"	0	0	45
+"2198"	2053	"Self emp inc"	"Sales"	0	0	45
+"2199"	2071	"Private"	"Exec managerial"	0	0	45
+"2200"	2076	"Private"	"Prof specialty"	0	0	45
+"2201"	2078	"Private"	"Prof specialty"	27828	0	45
+"2202"	2080	"Private"	"Adm clerical"	0	0	45
+"2203"	2084	"State gov"	"Prof specialty"	0	0	45
+"2204"	2119	"Private"	"Sales"	0	0	45
+"2205"	2167	"Private"	"Other service"	0	0	45
+"2206"	2168	"Private"	"Craft repair"	0	0	45
+"2207"	2180	"Private"	"Prof specialty"	0	0	45
+"2208"	2189	"Private"	"Craft repair"	0	0	45
+"2209"	2211	"Private"	"Craft repair"	0	0	45
+"2210"	2249	"Private"	"Exec managerial"	0	0	45
+"2211"	2286	"Private"	"Prof specialty"	0	0	45
+"2212"	2289	"Private"	"Machine op inspct"	0	0	45
+"2213"	2290	"Private"	"Handlers cleaners"	0	0	45
+"2214"	2295	"Private"	"Craft repair"	0	0	45
+"2215"	2322	"Private"	"Tech support"	0	0	45
+"2216"	2336	"Private"	"Machine op inspct"	0	0	45
+"2217"	2386	NA	NA	1173	0	45
+"2218"	2403	"Self emp not inc"	"Transport moving"	0	0	45
+"2219"	2404	"Self emp not inc"	"Exec managerial"	0	0	45
+"2220"	2416	"Local gov"	"Prof specialty"	0	0	45
+"2221"	2462	"Self emp not inc"	"Sales"	0	0	45
+"2222"	2475	"Self emp not inc"	"Craft repair"	0	1602	45
+"2223"	2491	"Private"	"Tech support"	0	0	45
+"2224"	2553	"Private"	"Prof specialty"	0	0	45
+"2225"	2560	"Private"	"Other service"	0	0	45
+"2226"	2571	"Private"	"Prof specialty"	0	1977	45
+"2227"	2588	NA	NA	0	0	45
+"2228"	2594	"Private"	"Prof specialty"	0	0	45
+"2229"	2597	"Private"	"Prof specialty"	0	0	45
+"2230"	2614	"Private"	"Other service"	0	0	45
+"2231"	2678	"Private"	"Exec managerial"	0	0	45
+"2232"	46	"Private"	"Machine op inspct"	0	0	46
+"2233"	358	"Private"	"Machine op inspct"	5013	0	46
+"2234"	792	"Private"	"Protective serv"	0	0	46
+"2235"	2506	"Private"	"Sales"	0	0	46
+"2236"	741	"Private"	"Adm clerical"	0	0	47
+"2237"	1766	"Self emp not inc"	"Craft repair"	0	0	47
+"2238"	1975	"Private"	"Adm clerical"	0	0	47
+"2239"	33	"Private"	"Other service"	0	0	48
+"2240"	143	"Private"	"Machine op inspct"	0	0	48
+"2241"	217	"Private"	"Transport moving"	0	0	48
+"2242"	230	"Private"	"Transport moving"	0	0	48
+"2243"	236	"Private"	"Exec managerial"	0	0	48
+"2244"	250	"Private"	"Sales"	0	0	48
+"2245"	256	"Private"	"Machine op inspct"	0	0	48
+"2246"	385	"Private"	"Other service"	0	0	48
+"2247"	390	"Private"	"Craft repair"	0	0	48
+"2248"	392	"Private"	"Machine op inspct"	0	0	48
+"2249"	512	"Private"	"Tech support"	0	2258	48
+"2250"	541	"Self emp not inc"	"Exec managerial"	0	0	48
+"2251"	578	"Private"	"Sales"	0	0	48
+"2252"	666	"Local gov"	"Protective serv"	0	0	48
+"2253"	805	"Private"	"Other service"	0	0	48
+"2254"	809	"Private"	"Adm clerical"	0	0	48
+"2255"	856	"Private"	"Craft repair"	0	0	48
+"2256"	869	"Private"	"Machine op inspct"	3137	0	48
+"2257"	908	"Private"	"Craft repair"	0	0	48
+"2258"	1019	NA	NA	0	0	48
+"2259"	1063	"Private"	"Farming fishing"	0	0	48
+"2260"	1310	"Private"	"Exec managerial"	0	0	48
+"2261"	1387	"Private"	"Priv house serv"	0	0	48
+"2262"	1628	"Federal gov"	"Adm clerical"	7298	0	48
+"2263"	1662	"Private"	"Craft repair"	0	0	48
+"2264"	1689	"Private"	"Farming fishing"	0	0	48
+"2265"	1828	"Self emp not inc"	"Exec managerial"	0	0	48
+"2266"	1879	"Private"	"Prof specialty"	15024	0	48
+"2267"	2048	"Private"	"Machine op inspct"	0	0	48
+"2268"	2065	"Private"	"Other service"	0	0	48
+"2269"	2206	"Private"	"Other service"	0	0	48
+"2270"	2535	"Private"	"Other service"	0	0	48
+"2271"	2601	"Private"	"Transport moving"	1151	0	48
+"2272"	2604	"Private"	"Prof specialty"	0	0	48
+"2273"	2633	"Private"	"Other service"	0	0	48
+"2274"	204	"Private"	"Sales"	0	0	49
+"2275"	336	"Local gov"	"Other service"	0	0	49
+"2276"	339	"Private"	"Sales"	0	0	49
+"2277"	425	"Private"	"Farming fishing"	0	0	49
+"2278"	12	"Self emp not inc"	"Other service"	0	1887	50
+"2279"	22	"Private"	"Sales"	0	0	50
+"2280"	24	"Private"	"Exec managerial"	0	0	50
+"2281"	51	"Self emp inc"	"Transport moving"	0	0	50
+"2282"	72	"Private"	"Prof specialty"	0	0	50
+"2283"	78	"Private"	"Sales"	0	0	50
+"2284"	79	"Private"	"Craft repair"	0	0	50
+"2285"	80	"Private"	"Other service"	0	0	50
+"2286"	81	"Self emp inc"	"Sales"	0	0	50
+"2287"	85	"Private"	"Sales"	0	0	50
+"2288"	92	"Private"	"Exec managerial"	0	0	50
+"2289"	103	"Private"	"Handlers cleaners"	0	0	50
+"2290"	105	"Self emp inc"	"Exec managerial"	0	0	50
+"2291"	125	"Private"	"Prof specialty"	15024	0	50
+"2292"	146	"Self emp not inc"	"Sales"	0	0	50
+"2293"	152	"Private"	"Sales"	0	0	50
+"2294"	168	"Private"	"Sales"	0	0	50
+"2295"	184	"Private"	"Handlers cleaners"	3781	0	50
+"2296"	215	"Self emp not inc"	"Exec managerial"	4386	0	50
+"2297"	219	"State gov"	"Prof specialty"	0	0	50
+"2298"	232	"Self emp not inc"	"Prof specialty"	0	0	50
+"2299"	235	"Self emp not inc"	"Farming fishing"	0	0	50
+"2300"	249	"Private"	"Machine op inspct"	0	0	50
+"2301"	258	"Local gov"	"Prof specialty"	0	0	50
+"2302"	295	"Private"	"Exec managerial"	0	0	50
+"2303"	325	"Self emp inc"	"Prof specialty"	7688	0	50
+"2304"	328	"Private"	"Other service"	0	0	50
+"2305"	330	"Private"	"Sales"	0	0	50
+"2306"	333	"Private"	"Prof specialty"	0	0	50
+"2307"	350	"Private"	"Prof specialty"	0	0	50
+"2308"	356	"Self emp not inc"	"Prof specialty"	0	1902	50
+"2309"	360	"Private"	"Sales"	0	0	50
+"2310"	406	"Local gov"	"Sales"	7430	0	50
+"2311"	438	"Private"	"Prof specialty"	0	0	50
+"2312"	475	"Self emp not inc"	"Exec managerial"	0	0	50
+"2313"	476	"Private"	"Other service"	0	0	50
+"2314"	492	"Private"	"Craft repair"	0	0	50
+"2315"	501	"Private"	"Exec managerial"	0	0	50
+"2316"	546	"Private"	"Craft repair"	0	0	50
+"2317"	547	NA	NA	0	0	50
+"2318"	549	"State gov"	"Prof specialty"	2463	0	50
+"2319"	563	"Private"	"Craft repair"	0	0	50
+"2320"	570	"Self emp not inc"	"Prof specialty"	99999	0	50
+"2321"	572	"Private"	"Craft repair"	0	0	50
+"2322"	584	"Private"	"Sales"	0	0	50
+"2323"	596	"Private"	"Other service"	0	0	50
+"2324"	640	"Private"	"Machine op inspct"	0	0	50
+"2325"	652	"Private"	"Tech support"	0	0	50
+"2326"	686	"Private"	"Exec managerial"	0	0	50
+"2327"	691	"Private"	"Farming fishing"	0	0	50
+"2328"	706	"Private"	"Handlers cleaners"	0	0	50
+"2329"	763	"Self emp not inc"	"Exec managerial"	7298	0	50
+"2330"	780	"Private"	"Exec managerial"	0	1902	50
+"2331"	806	"Self emp not inc"	"Sales"	0	0	50
+"2332"	838	"State gov"	"Prof specialty"	0	0	50
+"2333"	846	"Self emp not inc"	"Exec managerial"	0	0	50
+"2334"	848	"Private"	"Sales"	0	0	50
+"2335"	850	"Federal gov"	"Prof specialty"	0	0	50
+"2336"	901	"Private"	"Craft repair"	9386	0	50
+"2337"	927	"Private"	"Handlers cleaners"	0	0	50
+"2338"	935	"Private"	"Exec managerial"	0	0	50
+"2339"	937	"Private"	"Prof specialty"	0	1977	50
+"2340"	954	"Private"	"Craft repair"	0	0	50
+"2341"	960	"Self emp inc"	"Sales"	8614	0	50
+"2342"	981	"Private"	"Sales"	0	0	50
+"2343"	992	"Private"	"Exec managerial"	0	0	50
+"2344"	1005	"Private"	"Other service"	8614	0	50
+"2345"	1015	NA	NA	99999	0	50
+"2346"	1018	"Private"	"Exec managerial"	0	0	50
+"2347"	1023	"Self emp not inc"	"Craft repair"	0	0	50
+"2348"	1030	"Private"	"Prof specialty"	0	0	50
+"2349"	1037	"State gov"	"Prof specialty"	0	0	50
+"2350"	1049	"Private"	"Farming fishing"	0	0	50
+"2351"	1066	"Private"	"Other service"	0	0	50
+"2352"	1131	"Private"	"Exec managerial"	99999	0	50
+"2353"	1137	"Private"	"Prof specialty"	2463	0	50
+"2354"	1149	"Local gov"	"Prof specialty"	0	0	50
+"2355"	1172	"Private"	"Adm clerical"	0	0	50
+"2356"	1195	"Private"	"Exec managerial"	0	0	50
+"2357"	1196	"Private"	"Sales"	0	0	50
+"2358"	1217	"Self emp not inc"	"Prof specialty"	15024	0	50
+"2359"	1236	"Self emp not inc"	"Sales"	7298	0	50
+"2360"	1254	"Private"	"Sales"	0	0	50
+"2361"	1264	"Self emp inc"	"Exec managerial"	0	0	50
+"2362"	1275	"Private"	"Farming fishing"	0	0	50
+"2363"	1286	"Self emp not inc"	"Craft repair"	0	0	50
+"2364"	1331	"Private"	"Other service"	0	0	50
+"2365"	1342	"Private"	"Other service"	0	0	50
+"2366"	1348	"Private"	"Exec managerial"	0	0	50
+"2367"	1405	"Local gov"	"Prof specialty"	0	0	50
+"2368"	1409	"Private"	"Prof specialty"	0	0	50
+"2369"	1410	"Private"	"Exec managerial"	0	0	50
+"2370"	1420	"Private"	"Sales"	0	1977	50
+"2371"	1422	"Private"	"Other service"	7688	0	50
+"2372"	1426	"Self emp not inc"	"Craft repair"	0	0	50
+"2373"	1429	"Self emp inc"	"Prof specialty"	0	0	50
+"2374"	1439	"Self emp inc"	"Prof specialty"	15024	0	50
+"2375"	1452	"Private"	"Machine op inspct"	0	0	50
+"2376"	1463	"Self emp inc"	"Sales"	0	0	50
+"2377"	1479	"Private"	"Priv house serv"	0	0	50
+"2378"	1480	"Private"	"Exec managerial"	15024	0	50
+"2379"	1492	"Self emp not inc"	"Transport moving"	0	1564	50
+"2380"	1495	"Self emp not inc"	"Exec managerial"	0	0	50
+"2381"	1510	"Self emp inc"	"Adm clerical"	0	0	50
+"2382"	1519	"Private"	"Adm clerical"	0	0	50
+"2383"	1522	"Private"	"Tech support"	0	0	50
+"2384"	1540	"Private"	"Exec managerial"	0	0	50
+"2385"	1551	"Private"	"Prof specialty"	594	0	50
+"2386"	1552	"Self emp inc"	"Exec managerial"	0	0	50
+"2387"	1558	"Self emp not inc"	"Prof specialty"	0	0	50
+"2388"	1611	"Private"	"Other service"	0	0	50
+"2389"	1618	"Private"	"Prof specialty"	0	0	50
+"2390"	1651	"Self emp inc"	"Exec managerial"	7688	0	50
+"2391"	1666	"Local gov"	"Prof specialty"	0	0	50
+"2392"	1703	"Private"	"Prof specialty"	0	0	50
+"2393"	1709	"Private"	"Prof specialty"	0	0	50
+"2394"	1713	"Private"	"Craft repair"	4650	0	50
+"2395"	1735	"Private"	"Other service"	0	0	50
+"2396"	1740	"Private"	"Exec managerial"	0	0	50
+"2397"	1749	"Private"	"Prof specialty"	0	0	50
+"2398"	1789	"Self emp inc"	"Craft repair"	0	0	50
+"2399"	1795	"Private"	"Other service"	0	0	50
+"2400"	1809	"Private"	"Other service"	0	0	50
+"2401"	1815	NA	NA	0	0	50
+"2402"	1835	"Private"	"Handlers cleaners"	0	0	50
+"2403"	1889	"Self emp inc"	"Prof specialty"	0	0	50
+"2404"	1951	"Federal gov"	"Sales"	0	0	50
+"2405"	1956	"Self emp not inc"	"Sales"	0	2179	50
+"2406"	1989	"Self emp not inc"	"Prof specialty"	0	0	50
+"2407"	1991	"Private"	"Handlers cleaners"	0	0	50
+"2408"	1994	"Private"	"Sales"	0	0	50
+"2409"	2001	"Private"	"Adm clerical"	0	0	50
+"2410"	2003	"Private"	"Exec managerial"	0	0	50
+"2411"	2011	"Private"	"Other service"	0	0	50
+"2412"	2016	"Private"	"Handlers cleaners"	0	0	50
+"2413"	2017	"Private"	"Machine op inspct"	0	0	50
+"2414"	2061	"Private"	"Tech support"	0	0	50
+"2415"	2142	"Self emp inc"	"Exec managerial"	0	0	50
+"2416"	2186	"Self emp inc"	"Other service"	0	0	50
+"2417"	2228	"Private"	"Sales"	0	0	50
+"2418"	2240	"Federal gov"	"Craft repair"	0	0	50
+"2419"	2252	"Self emp not inc"	"Craft repair"	0	0	50
+"2420"	2256	"Private"	"Adm clerical"	0	0	50
+"2421"	2259	"Private"	"Sales"	0	0	50
+"2422"	2263	"Private"	"Sales"	1506	0	50
+"2423"	2293	"Private"	"Craft repair"	0	0	50
+"2424"	2307	"Private"	"Adm clerical"	0	0	50
+"2425"	2323	"Private"	"Farming fishing"	3781	0	50
+"2426"	2325	"Private"	"Exec managerial"	0	0	50
+"2427"	2377	"Self emp not inc"	"Prof specialty"	0	0	50
+"2428"	2393	"Self emp not inc"	"Prof specialty"	0	0	50
+"2429"	2395	"Self emp not inc"	"Transport moving"	0	0	50
+"2430"	2406	"Private"	"Adm clerical"	0	0	50
+"2431"	2415	"Private"	"Exec managerial"	0	0	50
+"2432"	2421	"Self emp not inc"	"Exec managerial"	3411	0	50
+"2433"	2468	"Private"	"Machine op inspct"	2936	0	50
+"2434"	2497	"Private"	"Craft repair"	3137	0	50
+"2435"	2500	"Federal gov"	"Prof specialty"	0	0	50
+"2436"	2520	"State gov"	"Prof specialty"	0	0	50
+"2437"	2522	"Self emp not inc"	"Exec managerial"	0	0	50
+"2438"	2556	"Private"	"Sales"	0	0	50
+"2439"	2567	"Private"	"Other service"	0	0	50
+"2440"	2572	"Private"	"Other service"	0	0	50
+"2441"	2576	"Private"	"Sales"	0	1887	50
+"2442"	2606	"Private"	"Adm clerical"	0	0	50
+"2443"	2610	"Private"	"Prof specialty"	0	1887	50
+"2444"	2611	"Self emp not inc"	"Transport moving"	0	0	50
+"2445"	2644	"Private"	"Sales"	8614	0	50
+"2446"	2668	"Self emp inc"	"Craft repair"	0	0	50
+"2447"	2704	"Private"	"Exec managerial"	0	0	50
+"2448"	1282	"Private"	"Sales"	0	0	51
+"2449"	268	"Private"	"Adm clerical"	3325	0	52
+"2450"	957	"Private"	"Sales"	0	0	52
+"2451"	1270	"Private"	"Exec managerial"	0	0	52
+"2452"	1501	"Private"	"Craft repair"	8614	0	52
+"2453"	1599	"Private"	"Prof specialty"	2907	0	52
+"2454"	1608	"Private"	"Exec managerial"	0	0	52
+"2455"	1680	"Private"	"Other service"	7688	0	52
+"2456"	2010	"Private"	"Other service"	0	0	52
+"2457"	2184	"Private"	"Exec managerial"	0	0	52
+"2458"	2275	"Private"	"Handlers cleaners"	0	0	52
+"2459"	2629	"Private"	"Exec managerial"	0	0	52
+"2460"	857	"Private"	"Other service"	0	0	53
+"2461"	95	"Private"	"Farming fishing"	0	0	54
+"2462"	193	"Self emp not inc"	"Sales"	0	0	54
+"2463"	1001	"Private"	"Protective serv"	0	0	54
+"2464"	1122	"Private"	"Other service"	0	0	54
+"2465"	1610	"Private"	"Other service"	0	0	54
+"2466"	2487	"Private"	"Farming fishing"	0	0	54
+"2467"	147	"Private"	"Other service"	0	0	55
+"2468"	163	"Self emp not inc"	"Sales"	0	0	55
+"2469"	175	"Private"	"Prof specialty"	0	0	55
+"2470"	243	"Private"	"Tech support"	2829	0	55
+"2471"	251	"Private"	"Craft repair"	0	0	55
+"2472"	279	"Self emp not inc"	"Sales"	15024	0	55
+"2473"	382	"Private"	"Prof specialty"	99999	0	55
+"2474"	400	"Private"	"Exec managerial"	0	0	55
+"2475"	480	"Private"	"Other service"	0	0	55
+"2476"	545	"Private"	"Transport moving"	0	0	55
+"2477"	561	"Private"	"Sales"	0	0	55
+"2478"	768	"Private"	"Exec managerial"	0	0	55
+"2479"	823	"Self emp not inc"	"Exec managerial"	0	0	55
+"2480"	874	"Private"	"Craft repair"	0	0	55
+"2481"	1097	"Private"	"Craft repair"	0	0	55
+"2482"	1178	"Private"	"Exec managerial"	0	0	55
+"2483"	1547	"Private"	"Prof specialty"	0	0	55
+"2484"	1556	"Private"	"Prof specialty"	0	0	55
+"2485"	1593	"Private"	"Handlers cleaners"	0	0	55
+"2486"	1730	"Private"	"Exec managerial"	15024	0	55
+"2487"	1746	"Private"	"Handlers cleaners"	0	0	55
+"2488"	1782	"Private"	"Sales"	0	0	55
+"2489"	1877	"Self emp inc"	"Sales"	7688	0	55
+"2490"	1911	"Self emp not inc"	"Sales"	0	0	55
+"2491"	1986	"Private"	"Craft repair"	0	0	55
+"2492"	2128	"Private"	"Handlers cleaners"	0	0	55
+"2493"	2148	"Private"	"Sales"	0	0	55
+"2494"	2298	"Private"	"Machine op inspct"	0	0	55
+"2495"	2310	"Private"	"Exec managerial"	0	0	55
+"2496"	2326	"Private"	"Prof specialty"	15024	0	55
+"2497"	2347	"Private"	"Prof specialty"	0	1902	55
+"2498"	2360	"Private"	"Other service"	0	0	55
+"2499"	2452	"Private"	"Handlers cleaners"	0	0	55
+"2500"	2690	"Private"	"Prof specialty"	0	0	55
+"2501"	450	NA	NA	0	0	56
+"2502"	875	"Private"	"Farming fishing"	0	0	56
+"2503"	1106	"Private"	"Handlers cleaners"	0	0	56
+"2504"	1312	"Private"	"Handlers cleaners"	0	0	56
+"2505"	1630	"Private"	"Machine op inspct"	0	0	56
+"2506"	1748	"Private"	"Prof specialty"	0	0	56
+"2507"	2492	"Private"	"Other service"	0	0	56
+"2508"	2667	"Private"	"Prof specialty"	0	0	56
+"2509"	1455	"Federal gov"	"Prof specialty"	99999	0	57
+"2510"	224	NA	NA	0	0	58
+"2511"	430	"Private"	"Craft repair"	0	0	58
+"2512"	700	"Private"	"Adm clerical"	0	2206	59
+"2513"	2350	"Private"	"Other service"	0	0	59
+"2514"	5	NA	NA	0	0	60
+"2515"	7	"Private"	"Prof specialty"	0	1902	60
+"2516"	86	"Private"	"Prof specialty"	0	0	60
+"2517"	131	"Self emp not inc"	"Exec managerial"	0	0	60
+"2518"	165	"Self emp not inc"	"Sales"	0	0	60
+"2519"	208	"Federal gov"	"Prof specialty"	0	0	60
+"2520"	218	"Private"	"Other service"	0	0	60
+"2521"	238	"Self emp not inc"	"Sales"	0	0	60
+"2522"	272	"Private"	"Prof specialty"	15024	0	60
+"2523"	297	"Private"	"Craft repair"	7688	0	60
+"2524"	312	"Private"	"Adm clerical"	0	0	60
+"2525"	322	"Self emp inc"	"Exec managerial"	5013	0	60
+"2526"	340	"Private"	"Prof specialty"	0	0	60
+"2527"	352	"Federal gov"	"Prof specialty"	15024	0	60
+"2528"	367	"State gov"	"Prof specialty"	0	0	60
+"2529"	401	"Private"	"Machine op inspct"	0	0	60
+"2530"	489	"Private"	"Exec managerial"	0	0	60
+"2531"	498	"Self emp inc"	"Prof specialty"	7688	0	60
+"2532"	502	"Private"	"Craft repair"	0	0	60
+"2533"	504	"Private"	"Other service"	0	0	60
+"2534"	518	"Private"	"Prof specialty"	0	0	60
+"2535"	533	"Private"	"Prof specialty"	0	2057	60
+"2536"	564	"Private"	"Prof specialty"	0	0	60
+"2537"	590	"Private"	"Prof specialty"	0	0	60
+"2538"	593	"Private"	"Transport moving"	15024	0	60
+"2539"	601	"Private"	"Exec managerial"	0	0	60
+"2540"	619	"Private"	"Machine op inspct"	0	0	60
+"2541"	626	"Self emp not inc"	"Sales"	0	0	60
+"2542"	637	"Private"	"Tech support"	0	0	60
+"2543"	645	"Private"	"Other service"	0	0	60
+"2544"	653	"Self emp not inc"	"Sales"	0	0	60
+"2545"	667	"Self emp not inc"	"Exec managerial"	0	0	60
+"2546"	726	"Private"	"Other service"	0	0	60
+"2547"	731	"Private"	"Priv house serv"	0	0	60
+"2548"	748	"Self emp inc"	"Exec managerial"	0	0	60
+"2549"	795	"Local gov"	"Other service"	0	0	60
+"2550"	837	"Private"	"Adm clerical"	0	0	60
+"2551"	863	"Private"	"Adm clerical"	0	0	60
+"2552"	871	"Private"	"Exec managerial"	15024	0	60
+"2553"	909	"Local gov"	"Protective serv"	0	0	60
+"2554"	919	"Self emp not inc"	"Sales"	0	0	60
+"2555"	923	"Private"	"Other service"	0	0	60
+"2556"	934	"Private"	"Transport moving"	0	0	60
+"2557"	993	"Private"	"Handlers cleaners"	2174	0	60
+"2558"	1043	"Private"	"Prof specialty"	0	0	60
+"2559"	1047	"Self emp not inc"	"Other service"	0	0	60
+"2560"	1117	"Private"	"Other service"	0	0	60
+"2561"	1182	"Private"	"Sales"	0	0	60
+"2562"	1237	"Private"	"Other service"	0	0	60
+"2563"	1273	"Self emp not inc"	"Other service"	0	0	60
+"2564"	1285	"Private"	"Prof specialty"	0	0	60
+"2565"	1411	"Private"	"Other service"	7298	0	60
+"2566"	1477	"Self emp inc"	"Sales"	0	0	60
+"2567"	1478	"Self emp not inc"	"Prof specialty"	0	2057	60
+"2568"	1484	"Self emp inc"	"Exec managerial"	0	1977	60
+"2569"	1490	"Self emp not inc"	"Prof specialty"	0	0	60
+"2570"	1497	"Private"	"Farming fishing"	0	0	60
+"2571"	1500	"Self emp not inc"	"Exec managerial"	0	0	60
+"2572"	1515	"Local gov"	"Exec managerial"	0	0	60
+"2573"	1535	"Private"	"Craft repair"	0	0	60
+"2574"	1548	"Self emp inc"	"Sales"	0	0	60
+"2575"	1549	"Private"	"Prof specialty"	0	0	60
+"2576"	1620	"Self emp not inc"	"Sales"	0	0	60
+"2577"	1677	"Private"	"Exec managerial"	27828	0	60
+"2578"	1686	"Self emp not inc"	"Prof specialty"	0	0	60
+"2579"	1691	"Self emp inc"	"Exec managerial"	0	2201	60
+"2580"	1706	"Private"	"Exec managerial"	7298	0	60
+"2581"	1707	"Private"	"Other service"	2829	0	60
+"2582"	1710	"Private"	"Farming fishing"	0	0	60
+"2583"	1763	"Private"	"Tech support"	0	0	60
+"2584"	1776	"Private"	"Exec managerial"	0	0	60
+"2585"	1796	"Private"	"Transport moving"	0	0	60
+"2586"	1818	NA	NA	0	0	60
+"2587"	1819	"Private"	"Exec managerial"	0	0	60
+"2588"	1834	"Private"	"Handlers cleaners"	0	0	60
+"2589"	1837	"Self emp not inc"	"Exec managerial"	0	0	60
+"2590"	1842	"Private"	"Farming fishing"	0	0	60
+"2591"	1875	"Private"	"Exec managerial"	0	0	60
+"2592"	1952	"Private"	"Priv house serv"	0	0	60
+"2593"	2086	"Self emp not inc"	"Sales"	0	0	60
+"2594"	2135	"Self emp not inc"	"Sales"	0	0	60
+"2595"	2146	"Self emp inc"	"Sales"	0	1485	60
+"2596"	2160	"Private"	"Other service"	0	0	60
+"2597"	2175	"Self emp inc"	"Exec managerial"	0	1977	60
+"2598"	2182	"Private"	"Other service"	0	0	60
+"2599"	2191	"Self emp inc"	"Exec managerial"	0	0	60
+"2600"	2214	"Self emp inc"	"Craft repair"	0	0	60
+"2601"	2219	"Local gov"	"Prof specialty"	0	1848	60
+"2602"	2229	"Self emp inc"	"Transport moving"	5178	0	60
+"2603"	2253	"Private"	"Transport moving"	0	0	60
+"2604"	2296	"Private"	"Handlers cleaners"	0	0	60
+"2605"	2339	"Self emp inc"	"Prof specialty"	0	0	60
+"2606"	2422	"Private"	"Exec managerial"	0	0	60
+"2607"	2446	"Private"	"Craft repair"	0	0	60
+"2608"	2495	"Private"	"Craft repair"	0	0	60
+"2609"	2531	"Private"	"Exec managerial"	0	1887	60
+"2610"	2540	"Self emp not inc"	"Other service"	0	0	60
+"2611"	2561	"Self emp not inc"	"Sales"	3137	0	60
+"2612"	2569	"Private"	"Prof specialty"	0	0	60
+"2613"	2584	"Private"	"Exec managerial"	0	0	60
+"2614"	2590	"Self emp inc"	"Exec managerial"	0	1902	60
+"2615"	2599	"Private"	"Exec managerial"	0	0	60
+"2616"	2608	"State gov"	"Prof specialty"	7688	0	60
+"2617"	969	"Private"	"Other service"	0	0	62
+"2618"	1946	"Private"	"Prof specialty"	0	0	62
+"2619"	550	"Self emp not inc"	"Sales"	0	0	63
+"2620"	588	"Self emp inc"	"Exec managerial"	0	0	63
+"2621"	688	"Self emp not inc"	"Sales"	0	0	63
+"2622"	1882	"Private"	"Prof specialty"	0	0	64
+"2623"	186	"Self emp inc"	"Exec managerial"	0	0	65
+"2624"	569	"Private"	"Prof specialty"	0	0	65
+"2625"	732	"Self emp not inc"	"Craft repair"	0	0	65
+"2626"	1321	"Private"	"Exec managerial"	0	0	65
+"2627"	1395	"Private"	"Farming fishing"	0	0	65
+"2628"	1567	"Private"	"Exec managerial"	2885	0	65
+"2629"	1649	"Local gov"	"Craft repair"	0	0	65
+"2630"	1704	"Private"	"Farming fishing"	0	0	65
+"2631"	1770	"Self emp not inc"	"Other service"	0	0	65
+"2632"	1777	"Private"	"Exec managerial"	10520	0	65
+"2633"	2241	"Private"	"Transport moving"	0	1579	65
+"2634"	2648	"Private"	"Exec managerial"	0	0	65
+"2635"	807	"Self emp not inc"	"Craft repair"	0	0	66
+"2636"	2359	"Private"	"Craft repair"	0	0	66
+"2637"	2373	"Private"	"Farming fishing"	0	0	66
+"2638"	2444	"Private"	"Other service"	0	0	66
+"2639"	2603	"Private"	"Prof specialty"	0	0	66
+"2640"	1640	"Self emp not inc"	"Exec managerial"	7688	0	67
+"2641"	1698	"Private"	"Prof specialty"	0	2415	67
+"2642"	76	"Private"	"Craft repair"	0	0	70
+"2643"	110	"Self emp not inc"	"Exec managerial"	0	1564	70
+"2644"	122	"Private"	"Other service"	2407	0	70
+"2645"	435	"Private"	"Adm clerical"	0	0	70
+"2646"	514	"Self emp inc"	"Exec managerial"	0	0	70
+"2647"	531	"Private"	"Transport moving"	0	1902	70
+"2648"	849	"Self emp inc"	"Exec managerial"	0	0	70
+"2649"	1150	"Self emp not inc"	"Sales"	0	0	70
+"2650"	1152	"Private"	"Craft repair"	0	0	70
+"2651"	1218	"Self emp not inc"	"Exec managerial"	0	0	70
+"2652"	1268	"State gov"	"Prof specialty"	0	1887	70
+"2653"	1293	"Private"	"Exec managerial"	0	2415	70
+"2654"	1412	"Self emp not inc"	"Craft repair"	15024	0	70
+"2655"	1641	"Self emp not inc"	"Farming fishing"	0	0	70
+"2656"	1701	"Private"	"Craft repair"	0	0	70
+"2657"	1885	"Self emp inc"	"Sales"	0	0	70
+"2658"	2254	"Self emp not inc"	"Other service"	0	0	70
+"2659"	2301	"Private"	"Prof specialty"	0	0	70
+"2660"	2333	"Self emp not inc"	"Prof specialty"	99999	0	70
+"2661"	2335	"Federal gov"	"Exec managerial"	0	0	70
+"2662"	2456	"Private"	"Craft repair"	0	0	70
+"2663"	2526	"Self emp inc"	"Machine op inspct"	0	0	70
+"2664"	2646	"Private"	"Exec managerial"	3411	0	70
+"2665"	39	"Private"	"Handlers cleaners"	0	0	72
+"2666"	576	"Private"	"Transport moving"	0	0	72
+"2667"	613	"State gov"	"Prof specialty"	0	0	72
+"2668"	870	"Private"	"Other service"	0	0	72
+"2669"	951	"Private"	"Craft repair"	0	0	72
+"2670"	2050	"Private"	"Exec managerial"	0	0	72
+"2671"	2115	"Private"	"Craft repair"	0	0	72
+"2672"	2686	"Private"	"Craft repair"	0	0	72
+"2673"	2688	"Private"	"Craft repair"	0	0	72
+"2674"	2700	"Private"	"Other service"	0	0	72
+"2675"	26	"Self emp inc"	"Exec managerial"	0	0	75
+"2676"	67	"Self emp not inc"	"Other service"	0	0	75
+"2677"	209	"Private"	"Other service"	0	0	75
+"2678"	586	"Self emp not inc"	"Exec managerial"	0	0	75
+"2679"	697	"Self emp not inc"	"Transport moving"	0	0	75
+"2680"	1317	"Private"	"Machine op inspct"	0	0	75
+"2681"	2270	"Private"	"Other service"	0	0	75
+"2682"	2693	"Private"	"Machine op inspct"	0	0	75
+"2683"	395	"Self emp not inc"	"Sales"	3137	0	77
+"2684"	904	"Private"	"Farming fishing"	0	0	77
+"2685"	1700	"Private"	"Farming fishing"	0	0	77
+"2686"	111	"Self emp inc"	"Other service"	0	0	78
+"2687"	351	NA	NA	0	0	80
+"2688"	544	"Self emp inc"	"Prof specialty"	99999	0	80
+"2689"	641	"Self emp not inc"	"Machine op inspct"	0	0	80
+"2690"	723	"Self emp not inc"	"Farming fishing"	0	0	80
+"2691"	1827	"Private"	"Other service"	0	0	80
+"2692"	1916	"Self emp not inc"	"Other service"	3464	0	80
+"2693"	2009	"Self emp not inc"	"Sales"	0	0	80
+"2694"	264	"Self emp inc"	"Sales"	0	2179	84
+"2695"	311	"Self emp inc"	"Exec managerial"	0	0	84
+"2696"	996	"Private"	"Transport moving"	0	0	84
+"2697"	1566	"Private"	"Other service"	0	0	84
+"2698"	1849	"Private"	"Farming fishing"	3942	0	84
+"2699"	493	"Private"	"Farming fishing"	0	0	85
+"2700"	1271	"Private"	"Farming fishing"	0	0	96
+"2701"	2243	"Self emp inc"	"Sales"	0	0	98
+"2702"	834	"Private"	"Prof specialty"	0	0	99
+"2703"	1064	"Private"	"Prof specialty"	0	0	99
+"2704"	1166	"Private"	"Prof specialty"	0	0	99
+"2705"	1464	"Self emp not inc"	"Other service"	0	0	99
+"2706"	2012	"Self emp inc"	"Exec managerial"	0	0	99
